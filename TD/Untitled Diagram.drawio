@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T04:55:33.814Z" agent="5.0 (Windows)" etag="eYBhpDOyx2gZY_yAvuBN" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T04:57:51.508Z" agent="5.0 (Windows)" etag="rJDqtFJpL9eElmOEXnEm" version="14.4.2" type="github">
   <diagram id="TiC0w1Ht3yhiNNbJjkEy" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -139,6 +139,22 @@
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-47" value="&lt;div&gt;Test result&lt;/div&gt;&lt;div&gt;(As test scenario &amp;amp; more)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
           <mxGeometry x="1050" y="90" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TR7oBmUhaJ_W7H3ZalQH-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="912" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-57" value="&lt;div&gt;User manual&lt;/div&gt;&lt;div&gt;(optional)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="750" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TR7oBmUhaJ_W7H3ZalQH-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="912" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-58" value="&lt;div&gt;Deploy manual&lt;/div&gt;&lt;div&gt;(optional)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="970" y="510" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
