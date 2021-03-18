@@ -1,32 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T02:07:07.594Z" agent="5.0 (Windows)" etag="ysphlkat3ijuHniupDVx" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T02:15:55.311Z" agent="5.0 (Windows)" etag="rbvesD40J9QwfT30mO6E" version="14.4.2" type="github">
   <diagram id="TiC0w1Ht3yhiNNbJjkEy" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-2" value="Project 1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="100" y="47.5" width="50" height="45" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-2" value="Project 1" style="pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#994C00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="70" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-4" value="Input from customer (requirement)" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
-          <mxGeometry x="320" y="30" width="60" height="50" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-4" value="&lt;div&gt;Input from customer &lt;br&gt;&lt;/div&gt;&lt;div&gt;(requirement)&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="262.78" y="126" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-8" value="Internal (DZ Create Doc)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="56.06" height="45.5" as="geometry" />
+          <mxGeometry x="262.78" y="236" width="60" height="48.7" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-9" value="SW UAT Doc" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.folder" vertex="1" parent="1">
-          <mxGeometry x="660" y="250" width="46.51" height="40" as="geometry" />
+          <mxGeometry x="549.48" y="240" width="62.79" height="54" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-10" value="SW Deploy Doc" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="658.26" y="350" width="50" height="45" as="geometry" />
+          <mxGeometry x="551.22" y="331" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-11" value="SW SIT Doc" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#DA4026;" vertex="1" parent="1">
-          <mxGeometry x="660" y="150" width="50" height="45" as="geometry" />
+          <mxGeometry x="551.74" y="130" width="58.26" height="51" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-12" value="Software document" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
-          <mxGeometry x="317.22" y="250" width="61.61" height="50" as="geometry" />
+          <mxGeometry x="260" y="40" width="61.61" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-13" value="Dev Doc" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="660" y="60" width="50" height="45" as="geometry" />
+          <mxGeometry x="551.74" y="40" width="58.26" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-15" value="Output" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="262.78000000000003" y="346" width="63.69" height="51.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
