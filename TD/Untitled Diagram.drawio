@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T01:38:40.891Z" agent="5.0 (Windows)" version="14.4.2" etag="HqvuwO4SCKpd4OOzvEMw" type="github"><diagram id="TiC0w1Ht3yhiNNbJjkEy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-18T01:46:01.003Z" agent="5.0 (Windows)" etag="51VlqHywhonv2TA9k-_Z" version="14.4.2" type="github">
+  <diagram id="TiC0w1Ht3yhiNNbJjkEy" name="Page-1">
+    <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-1" value="Customr name&lt;br&gt;(Kbank, KTB, KTC, TMB etc)" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.shared_folder" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="51.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-2" value="&lt;div&gt;Project Name&lt;/div&gt;&lt;div&gt;(Debit, Credit, SW outsourcing etc.)&lt;br&gt;&lt;/div&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="50" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
