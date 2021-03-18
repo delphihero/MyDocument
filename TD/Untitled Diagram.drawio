@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T08:40:04.219Z" agent="5.0 (Windows)" etag="8-VVvdcuvDCXqS_v-mKK" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T08:42:07.751Z" agent="5.0 (Windows)" etag="C5qYS_sRAUxn4t1zzt6d" version="14.4.2" type="github">
   <diagram id="TiC0w1Ht3yhiNNbJjkEy" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -151,8 +151,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-57" value="&lt;div&gt;User manual&lt;/div&gt;&lt;div&gt;(optional)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="750" y="541" width="100" height="60" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-57" value="&lt;div&gt;Deploy issues&lt;/div&gt;&lt;div&gt;(if any)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="750" y="550" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TR7oBmUhaJ_W7H3ZalQH-13">
           <mxGeometry relative="1" as="geometry">
@@ -187,21 +187,24 @@
           <mxGeometry x="890" y="478.7" width="41.3" height="41.3" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-74" value="Deploy package" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;shadow=1;strokeColor=#1A1A1A;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="970" y="550" width="270" height="130" as="geometry" />
+          <mxGeometry x="970" y="550" width="270" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-75" value="Installation files" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-75" value="installation files" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
           <mxGeometry width="110" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="50" as="offset" />
+            <mxPoint x="140" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-78" value="database script" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
           <mxGeometry x="140" y="90" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-79" value="fonts" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
-          <mxGeometry x="140" y="50" width="110" height="30" as="geometry" />
+          <mxGeometry x="140" y="130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-80" value="Deploy manual" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
-          <mxGeometry x="20" y="90" width="110" height="30" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-80" value="deploy manual" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
+          <mxGeometry x="20" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-83" value="&lt;div&gt;user manual&lt;/div&gt;&lt;div&gt;(optional)&lt;br&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-74">
+          <mxGeometry x="20" y="90" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
