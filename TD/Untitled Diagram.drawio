@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T04:36:52.682Z" agent="5.0 (Windows)" etag="CtZ-c4ngIvVOYpmEEcia" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T04:55:33.814Z" agent="5.0 (Windows)" etag="eYBhpDOyx2gZY_yAvuBN" version="14.4.2" type="github">
   <diagram id="TiC0w1Ht3yhiNNbJjkEy" name="Page-1">
     <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="48.74000000000001" y="451" width="63.69" height="51.69" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="70" width="332.78999999999996" height="380" as="geometry" />
+          <mxGeometry x="610" y="80" width="332.78999999999996" height="382" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-9" value="SW UAT Doc" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.folder" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-31">
           <mxGeometry x="270" y="202" width="62.79" height="54" as="geometry" />
@@ -66,11 +66,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-44" value="SW requirement" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-31">
-          <mxGeometry x="-5.000000000000055" y="130" width="100" height="60" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-55" value="" style="group" vertex="1" connectable="0" parent="TR7oBmUhaJ_W7H3ZalQH-31">
+          <mxGeometry x="-19.190000000000055" y="92" width="100.00000000000006" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-48" value="&lt;div&gt;PCI Doc&lt;/div&gt;&lt;div&gt;(Optional)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#999999;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-31">
-          <mxGeometry x="-5.5" y="320" width="100" height="60" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TR7oBmUhaJ_W7H3ZalQH-55" source="TR7oBmUhaJ_W7H3ZalQH-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.00000000000006" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-48" value="&lt;div&gt;PCI Doc&lt;/div&gt;&lt;div&gt;(Optional)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#999999;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-55">
+          <mxGeometry x="5.684341886080802e-14" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TR7oBmUhaJ_W7H3ZalQH-55" source="TR7oBmUhaJ_W7H3ZalQH-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-44" value="SW requirement" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-55">
+          <mxGeometry y="32" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TR7oBmUhaJ_W7H3ZalQH-55" source="TR7oBmUhaJ_W7H3ZalQH-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.00000000000006" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-45" value="Initial test scenarios" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="TR7oBmUhaJ_W7H3ZalQH-55">
+          <mxGeometry x="5.684341886080802e-14" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="240" y="30.340000000000003" width="110" height="139.66" as="geometry" />
@@ -113,14 +134,11 @@
         <mxCell id="TR7oBmUhaJ_W7H3ZalQH-42" value="Concern issues" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
           <mxGeometry x="251" y="460" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-45" value="Initial test scenarios" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
-          <mxGeometry x="535" y="290" width="100" height="60" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-46" value="&lt;div&gt;Issue log&lt;/div&gt;&lt;div&gt;(keep update)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-46" value="&lt;div&gt;Dev issues&lt;/div&gt;&lt;div&gt;(keep update)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
-          <mxGeometry x="980" y="220" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-47" value="Unit test result" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
-          <mxGeometry x="980" y="70" width="100" height="60" as="geometry" />
+        <mxCell id="TR7oBmUhaJ_W7H3ZalQH-47" value="&lt;div&gt;Test result&lt;/div&gt;&lt;div&gt;(As test scenario &amp;amp; more)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;shadow=1;fillColor=#FFE359;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="90" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
