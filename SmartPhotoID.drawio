@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T15:30:31.059Z" agent="5.0 (Windows)" etag="XSxL1DEDWsPdh4_CFHJp" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-18T15:44:35.339Z" agent="5.0 (Windows)" etag="QYZrhLISelKCd6o4vG5_" version="15.2.9" type="github" pages="2">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1120" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. manage print jobs&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. manage print client consoles&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. card design templates&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="650" y="80" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="Print Client Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
+        <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register printer consoles&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. manage card printer&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
           <mxGeometry x="660" y="324" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
