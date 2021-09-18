@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T13:51:48.905Z" agent="5.0 (Windows)" etag="FckUdJXo9hll4dt9dKyl" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-18T13:53:42.563Z" agent="5.0 (Windows)" etag="1e_GdGoUzXNZshd9voKH" version="15.2.9" type="github" pages="2">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XQk42yvYTj5b2N5QGWH9-0" />
         <mxCell id="XQk42yvYTj5b2N5QGWH9-1" parent="XQk42yvYTj5b2N5QGWH9-0" />
-        <mxCell id="XQk42yvYTj5b2N5QGWH9-2" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;()&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="300" y="240" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="XQk42yvYTj5b2N5QGWH9-3" value="&lt;div&gt;DZ Cloud print system&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(manage print jobs, print consoles,card design templates)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="790" y="250" width="190" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="XQk42yvYTj5b2N5QGWH9-4" value="&lt;div&gt;Custom card design system&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(create card templates, build card faces)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="560" y="430" width="190" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-0" value="&lt;div&gt;&lt;b&gt;Photo management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. take photo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. remove bg, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. build card faces&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
           <mxGeometry x="50" y="90" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AS9TGTLmxo-H16eB41mD-1" value="&lt;div&gt;&lt;b&gt;Custom card design system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. create card templates&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
+          <mxGeometry x="350" y="170" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print system&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. manage print jobs&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print consoles&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. card design templates&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
+          <mxGeometry x="650" y="150" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
