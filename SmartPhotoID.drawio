@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:35:52.159Z" agent="5.0 (Windows)" etag="4O3QKAe_xbZl38j4_jvH" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-19T16:52:14.658Z" agent="5.0 (Windows)" etag="lB5L6GI8ydnUZmtuZMZb" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1263" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,8 +7,16 @@
         <mxCell id="jop0U1ng2tMk78MfC3YG-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-3" value="1. get card template list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jop0U1ng2tMk78MfC3YG-2">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-3" value="&lt;div align=&quot;left&quot;&gt;1. get card template list&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jop0U1ng2tMk78MfC3YG-2">
           <mxGeometry x="0.2131" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jop0U1ng2tMk78MfC3YG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jop0U1ng2tMk78MfC3YG-5" value="1.place print card orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jop0U1ng2tMk78MfC3YG-4">
+          <mxGeometry x="-0.5365" y="-58" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -23,17 +31,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hdjar5kR_bf7j22daw-1-0" value="&#xa;1.place print card orders&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="310" />
+              <mxPoint x="135" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-1" value="&lt;div&gt;&lt;b&gt;Custom card design &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. get card template info api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. create &amp;amp; maintain card templates&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print card&amp;nbsp; module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="20" y="55" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jop0U1ng2tMk78MfC3YG-1" value="user auth" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="AS9TGTLmxo-H16eB41mD-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.1343" y="20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="475" />
+              <mxPoint x="430" y="253" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. manage print jobs&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. manage print client consoles&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. card design templates&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="20" y="360" width="230" height="230" as="geometry" />
+        <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. manage print jobs&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. manage print client consoles&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
+          <mxGeometry x="30" y="380" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register printer consoles&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. manage card printer&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
-          <mxGeometry x="530" y="385" width="230" height="230" as="geometry" />
+          <mxGeometry x="740" y="350" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -257,7 +279,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y7EzOYhGeakzmsp7uXFN" name="Photo management">
-    <mxGraphModel dx="1023" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="wY2XVCs2HqPmD_86Bv2a-0" />
         <mxCell id="wY2XVCs2HqPmD_86Bv2a-1" parent="wY2XVCs2HqPmD_86Bv2a-0" />
