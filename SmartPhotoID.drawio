@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T16:52:14.658Z" agent="5.0 (Windows)" etag="lB5L6GI8ydnUZmtuZMZb" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-19T16:56:30.511Z" agent="5.0 (Windows)" etag="V4lqazd6gPtjwWzH2IMd" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
-    <mxGraphModel dx="1263" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XQk42yvYTj5b2N5QGWH9-0" />
         <mxCell id="XQk42yvYTj5b2N5QGWH9-1" parent="XQk42yvYTj5b2N5QGWH9-0" />
@@ -13,11 +13,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jop0U1ng2tMk78MfC3YG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="309" />
+              <mxPoint x="590" y="510" />
+              <mxPoint x="330" y="510" />
+              <mxPoint x="330" y="564" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jop0U1ng2tMk78MfC3YG-5" value="1.place print card orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jop0U1ng2tMk78MfC3YG-4">
           <mxGeometry x="-0.5365" y="-58" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="68" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-0" value="&lt;div&gt;&lt;b&gt;Photo management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. user auth api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. user profile api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. organization api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. take photo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. remove bg, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. build card faces&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. print card module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
@@ -51,11 +58,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. manage print jobs&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. manage print client consoles&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
+        <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. print console registration module &lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print orders real time update module&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="30" y="380" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register printer consoles&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. manage card printer&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
-          <mxGeometry x="740" y="350" width="230" height="230" as="geometry" />
+          <mxGeometry x="570" y="500" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
