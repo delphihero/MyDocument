@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T15:52:43.142Z" agent="5.0 (Windows)" etag="E0rUhsVlWeCLsqrqpCBE" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-19T16:14:12.681Z" agent="5.0 (Windows)" etag="GJK6P0yxY__picPYZKud" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1263" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XQk42yvYTj5b2N5QGWH9-0" />
         <mxCell id="XQk42yvYTj5b2N5QGWH9-1" parent="XQk42yvYTj5b2N5QGWH9-0" />
-        <mxCell id="AS9TGTLmxo-H16eB41mD-0" value="&lt;div&gt;&lt;b&gt;Photo management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. users auth api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. users profile api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. organization api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. take photo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. remove bg, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. build card faces&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="365" y="80" width="230" height="230" as="geometry" />
+        <mxCell id="AS9TGTLmxo-H16eB41mD-0" value="&lt;div&gt;&lt;b&gt;Photo management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. users auth api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. users profile api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. organization api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. take photo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. remove bg, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. build card faces&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. print card module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
+          <mxGeometry x="365" y="55" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="T1YCbj9p1mz2rBXZmMMn-0" value="user auth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-0">
+        <mxCell id="T1YCbj9p1mz2rBXZmMMn-0" value="user auth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-1" value="&lt;div&gt;&lt;b&gt;Custom card design &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. provide build card faces API&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. create &amp;amp; maintain card templates&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print card&amp;nbsp; module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="20" y="80" width="230" height="230" as="geometry" />
+          <mxGeometry x="20" y="55" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. manage print jobs&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. manage print client consoles&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. card design templates&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="764" y="80" width="230" height="230" as="geometry" />
+          <mxGeometry x="20" y="360" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register printer consoles&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. manage card printer&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
-          <mxGeometry x="365" y="390" width="230" height="230" as="geometry" />
+          <mxGeometry x="365" y="360" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Custom card design ">
-    <mxGraphModel dx="1023" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
