@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:20:13.142Z" agent="5.0 (Windows)" etag="zztx-UI_3Z4aUlGvqbw_" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:20:52.369Z" agent="5.0 (Windows)" etag="X9t2cDZ3zV37mbXpPX9P" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1278" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,9 +15,9 @@
         <mxCell id="jop0U1ng2tMk78MfC3YG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="309" />
-              <mxPoint x="540" y="510" />
-              <mxPoint x="330" y="510" />
+              <mxPoint x="530" y="309" />
+              <mxPoint x="530" y="490" />
+              <mxPoint x="330" y="490" />
               <mxPoint x="330" y="564" />
             </Array>
           </mxGeometry>
@@ -58,7 +58,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdjar5kR_bf7j22daw-1-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="VPOgRjzrrNW2hI6NRS3K-3" edge="1">
+        <mxCell id="hdjar5kR_bf7j22daw-1-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;fillColor=#E3FF57;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="VPOgRjzrrNW2hI6NRS3K-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7Pw_kFebnkQocqkVA_T-0" value="&lt;div&gt;inter synchronization data&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. console status&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. printer status&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. print card status&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdjar5kR_bf7j22daw-1-2">
