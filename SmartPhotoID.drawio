@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T09:29:43.029Z" agent="5.0 (Windows)" etag="WwgavqnBQpQVDbrjf7dr" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T09:31:28.363Z" agent="5.0 (Windows)" etag="lqDpZxiqnHC7EUtB_7E6" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1038" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -285,16 +285,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pmy3CLnyUDnn_8xeMbFt-4" value="Create &#xa;&#xa;new template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="600" width="140" height="60" as="geometry" />
+          <mxGeometry x="490" y="570" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pmy3CLnyUDnn_8xeMbFt-5" value="Load&#xa;exist template&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="600" width="116" height="60" as="geometry" />
+          <mxGeometry x="640" y="570" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pmy3CLnyUDnn_8xeMbFt-6" value="Build&#xa;card face&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="500" width="110" height="60" as="geometry" />
+          <mxGeometry x="490" y="460" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y7Jge2zMEJUOQjdpWOx2-0" value="Get card &#xa;&#xa;template info" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="500" width="135" height="60" as="geometry" />
+          <mxGeometry x="640" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DtYO-9vcxM01h9P2qQXD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;fillColor=#E3FF57;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="UXQcSEptCOop2wgbjfl1-41">
           <mxGeometry relative="1" as="geometry">
