@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:03:05.318Z" agent="5.0 (Windows)" etag="LyMK3rfskyaaRp2WuPF_" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:03:54.591Z" agent="5.0 (Windows)" etag="2sAAccU0blBvFUA5QL6W" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1278" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="AS9TGTLmxo-H16eB41mD-1" value="&lt;div&gt;&lt;b&gt;Custom card design &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. get card template info api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. create &amp;amp; maintain card templates&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="20" y="55" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-1" value="user auth" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="AS9TGTLmxo-H16eB41mD-0" edge="1">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-1" value="&lt;div align=&quot;left&quot;&gt;1.user auth&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. get organization list&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="AS9TGTLmxo-H16eB41mD-0" edge="1">
           <mxGeometry x="0.1343" y="20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="475" />
