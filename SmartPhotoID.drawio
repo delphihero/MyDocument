@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:32:50.430Z" agent="5.0 (Windows)" etag="toqzbDwRBMzoVdpI7m3K" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:35:06.034Z" agent="5.0 (Windows)" etag="ddEjNgCGCIoIA_mSALCh" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1278" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -741,6 +741,9 @@
         </mxCell>
         <mxCell id="jixxbhjGVMCSKeE05Oao-0" value="user &#xa;&#xa;registtration" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="wY2XVCs2HqPmD_86Bv2a-1">
           <mxGeometry x="440" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxMvOya1750nOpdexrwg-0" value="add/edit&#xa;user profile&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="wY2XVCs2HqPmD_86Bv2a-1">
+          <mxGeometry x="610" y="370" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
