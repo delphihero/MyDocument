@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:18:45.022Z" agent="5.0 (Windows)" etag="Mq7ABbRaVgdLQ-TfrDQg" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:20:13.142Z" agent="5.0 (Windows)" etag="zztx-UI_3Z4aUlGvqbw_" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1278" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,19 +58,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdjar5kR_bf7j22daw-1-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="VPOgRjzrrNW2hI6NRS3K-3" edge="1">
+        <mxCell id="hdjar5kR_bf7j22daw-1-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="VPOgRjzrrNW2hI6NRS3K-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7Pw_kFebnkQocqkVA_T-0" value="&lt;div&gt;inter synchronization data&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. console status&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. printer status&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. print card status&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdjar5kR_bf7j22daw-1-2">
           <mxGeometry x="-0.2888" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. print console registration api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. place print card order api&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. print orders real time update module&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;1. print console registration module&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print card status dashboard&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="30" y="380" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service (App)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register print console app&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. perform print card&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
-          <mxGeometry x="570" y="500" width="230" height="230" as="geometry" />
+          <mxGeometry x="560" y="550" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
