@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:50:18.162Z" agent="5.0 (Windows)" etag="N0XyuH8J_3b6KR3iJdpc" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:50:35.947Z" agent="5.0 (Windows)" etag="LswxZCSw61oeGQFsAEU9" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1278" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-5" value="1.place print card orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jop0U1ng2tMk78MfC3YG-4" vertex="1" connectable="0">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-5" value="&lt;br&gt;&lt;div align=&quot;left&quot;&gt;1. get print console list&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. get printer list&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. place print card orders&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jop0U1ng2tMk78MfC3YG-4" vertex="1" connectable="0">
           <mxGeometry x="-0.5365" y="-58" relative="1" as="geometry">
             <mxPoint x="58" y="113" as="offset" />
           </mxGeometry>
