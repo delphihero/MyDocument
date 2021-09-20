@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T07:33:09.434Z" agent="5.0 (Windows)" etag="MUv4IvfQIGY2luciniLy" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T07:42:16.870Z" agent="5.0 (Windows)" etag="BcatdnlIn4Wo3vP4zzkd" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1038" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DtYO-9vcxM01h9P2qQXD-5" value="active:bool (default=false)" style="shape=partialRectangle;connectable=0;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="DtYO-9vcxM01h9P2qQXD-3">
+        <mxCell id="DtYO-9vcxM01h9P2qQXD-5" value="enabled:bool (default=false)" style="shape=partialRectangle;connectable=0;fillColor=#FFFFFF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="DtYO-9vcxM01h9P2qQXD-3">
           <mxGeometry x="30" width="240" height="30" as="geometry">
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
