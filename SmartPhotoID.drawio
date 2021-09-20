@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T17:06:10.467Z" agent="5.0 (Windows)" etag="rFxYBjItXmALrq9S11yk" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:03:05.318Z" agent="5.0 (Windows)" etag="LyMK3rfskyaaRp2WuPF_" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
-    <mxGraphModel dx="1486" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XQk42yvYTj5b2N5QGWH9-0" />
         <mxCell id="XQk42yvYTj5b2N5QGWH9-1" parent="XQk42yvYTj5b2N5QGWH9-0" />
-        <mxCell id="jop0U1ng2tMk78MfC3YG-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-1">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-3" value="&lt;div align=&quot;left&quot;&gt;1. get card template list&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jop0U1ng2tMk78MfC3YG-2">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-3" value="&lt;div align=&quot;left&quot;&gt;1. get card template list&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jop0U1ng2tMk78MfC3YG-2" vertex="1" connectable="0">
           <mxGeometry x="0.2131" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-2">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="309" />
@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-5" value="1.place print card orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jop0U1ng2tMk78MfC3YG-4">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-5" value="1.place print card orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jop0U1ng2tMk78MfC3YG-4" vertex="1" connectable="0">
           <mxGeometry x="-0.5365" y="-58" relative="1" as="geometry">
             <mxPoint x="68" as="offset" />
           </mxGeometry>
@@ -30,7 +30,7 @@
         <mxCell id="AS9TGTLmxo-H16eB41mD-0" value="&lt;div&gt;&lt;b&gt;Photo management&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;System&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. user auth api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. user profile api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. organization api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. take photo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. remove bg, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. build card faces&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. print card module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="530" y="80" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="T1YCbj9p1mz2rBXZmMMn-0" value="&lt;div align=&quot;left&quot;&gt;1.user auth&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. get organization list&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-0">
+        <mxCell id="T1YCbj9p1mz2rBXZmMMn-0" value="&lt;div align=&quot;left&quot;&gt;1.user auth&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. get organization list&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="113" />
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdjar5kR_bf7j22daw-1-0" value="&#xa;1.place print card orders&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-2">
+        <mxCell id="hdjar5kR_bf7j22daw-1-0" value="&#xa;1.place print card orders&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-1" target="AS9TGTLmxo-H16eB41mD-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="135" y="310" />
@@ -46,10 +46,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AS9TGTLmxo-H16eB41mD-1" value="&lt;div&gt;&lt;b&gt;Custom card design &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. get card template info api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. create &amp;amp; maintain card templates&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print card&amp;nbsp; module&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
+        <mxCell id="AS9TGTLmxo-H16eB41mD-1" value="&lt;div&gt;&lt;b&gt;Custom card design &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. get card template info api&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. create &amp;amp; maintain card templates&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="20" y="55" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-1" value="user auth" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="AS9TGTLmxo-H16eB41mD-0">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-1" value="user auth" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="AS9TGTLmxo-H16eB41mD-0" edge="1">
           <mxGeometry x="0.1343" y="20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="475" />
@@ -58,13 +58,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hdjar5kR_bf7j22daw-1-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="VPOgRjzrrNW2hI6NRS3K-3">
+        <mxCell id="hdjar5kR_bf7j22daw-1-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.015;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-2" target="VPOgRjzrrNW2hI6NRS3K-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AS9TGTLmxo-H16eB41mD-2" value="&lt;div&gt;&lt;b&gt;DZ Cloud print &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;system&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Backend&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. print console registration api&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. place print card order api&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. print orders real time update module&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Frontend&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;1. print console registration module&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. print card status dashboard&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="30" y="380" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service (App)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register print console app&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. perform print card&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XQk42yvYTj5b2N5QGWH9-1">
+        <mxCell id="VPOgRjzrrNW2hI6NRS3K-3" value="&lt;div&gt;&lt;b&gt;Print Client Service (App)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. register print console app&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. add/remove local printers&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. perform print card&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="XQk42yvYTj5b2N5QGWH9-1" vertex="1">
           <mxGeometry x="570" y="500" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
