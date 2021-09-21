@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T08:58:03.531Z" agent="5.0 (Windows)" etag="VpdiqxbNlq-n8FOqjvx2" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-21T08:58:14.317Z" agent="5.0 (Windows)" etag="F3Atv4Me4RLi9SerrDVA" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1038" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -275,10 +275,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pmy3CLnyUDnn_8xeMbFt-4" value="Create &#xa;&#xa;new template" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="570" width="110" height="60" as="geometry" />
+          <mxGeometry x="140" y="460" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pmy3CLnyUDnn_8xeMbFt-5" value="Load&#xa;exist template&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="570" width="116" height="60" as="geometry" />
+          <mxGeometry x="284" y="460" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pmy3CLnyUDnn_8xeMbFt-6" value="Build&#xa;card face&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="460" width="110" height="60" as="geometry" />
