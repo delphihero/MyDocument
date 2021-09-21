@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T08:09:11.220Z" agent="5.0 (Windows)" etag="VlGmWlZPW61k_Gkp_TAr" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-21T08:16:58.411Z" agent="5.0 (Windows)" etag="xZxqZd1xE5IMnWgN5Faj" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1038" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -286,11 +286,6 @@
         <mxCell id="Y7Jge2zMEJUOQjdpWOx2-0" value="Get card &#xa;&#xa;template info" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtYO-9vcxM01h9P2qQXD-32" value="1..n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;fillColor=#E3FF57;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DtYO-9vcxM01h9P2qQXD-19" target="UXQcSEptCOop2wgbjfl1-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="486" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DtYO-9vcxM01h9P2qQXD-19" value="tb_user_cardlayout" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="447" width="270" height="210" as="geometry" />
         </mxCell>
@@ -315,7 +310,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DtYO-9vcxM01h9P2qQXD-28" value="org_cardlayout_id:integer" style="shape=partialRectangle;connectable=0;fillColor=#66FF66;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;labelBackgroundColor=#FFFF66;" parent="DtYO-9vcxM01h9P2qQXD-26" vertex="1">
+        <mxCell id="DtYO-9vcxM01h9P2qQXD-28" value="org_ref_name:string" style="shape=partialRectangle;connectable=0;fillColor=#66FF66;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;labelBackgroundColor=#FFFF66;" parent="DtYO-9vcxM01h9P2qQXD-26" vertex="1">
           <mxGeometry x="30" width="240" height="30" as="geometry">
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
