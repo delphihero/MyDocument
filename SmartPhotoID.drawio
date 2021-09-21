@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T09:54:31.832Z" agent="5.0 (Windows)" etag="2kuYUBKCPJ6OMvfMhWeX" version="15.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-21T09:57:58.522Z" agent="5.0 (Windows)" etag="es_vuSgIj29EkWUU5el3" version="15.2.9" type="github" pages="4">
   <diagram id="r_a6c4T3uoJwIFPuBqCp" name="overview">
     <mxGraphModel dx="1038" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,9 +7,9 @@
         <mxCell id="jop0U1ng2tMk78MfC3YG-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jop0U1ng2tMk78MfC3YG-3" value="&lt;div align=&quot;left&quot;&gt;1. get card template list (by org)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. build card faces&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jop0U1ng2tMk78MfC3YG-2" vertex="1" connectable="0">
+        <mxCell id="jop0U1ng2tMk78MfC3YG-3" value="&lt;div align=&quot;left&quot;&gt;1. create url to CCDS app (global,group,individual)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. call api: build card faces&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jop0U1ng2tMk78MfC3YG-2" vertex="1" connectable="0">
           <mxGeometry x="0.2131" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="25" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jop0U1ng2tMk78MfC3YG-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.465;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" parent="XQk42yvYTj5b2N5QGWH9-1" source="AS9TGTLmxo-H16eB41mD-0" target="AS9TGTLmxo-H16eB41mD-2" edge="1">
