@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T15:02:17.392Z" agent="5.0 (Windows)" etag="taroqoWsI6PDt0hlyUp9" version="15.3.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T15:03:02.082Z" agent="5.0 (Windows)" etag="ZZPBaaqUco5-0E-NjSk3" version="15.3.4" type="github" pages="2">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="2207" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,14 +23,15 @@
           <mxGeometry x="60" y="38" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-2" value="&lt;div&gt;DB2 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Database&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.database_server;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="191.5" y="-56" width="43" height="56" as="geometry" />
+          <mxGeometry x="75" y="-80" width="43" height="56" as="geometry" />
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-3" value="&lt;div&gt;Web API&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server_blue;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="490" y="186.5" width="48" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-15" value="&lt;div&gt;connect with DB2&lt;/div&gt;&lt;div&gt;(using connection string)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" target="ys8oHW5ExI6m-6Dw5dze-2">
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-15" value="&lt;div&gt;connect with DB2&lt;/div&gt;&lt;div&gt;(using connection string)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2TjFGElrWv2_csiUwO1_-4">
           <mxGeometry x="-0.1143" y="-5" relative="1" as="geometry">
             <mxPoint x="114.2962962962963" y="167" as="sourcePoint" />
+            <mxPoint x="96" y="20" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
