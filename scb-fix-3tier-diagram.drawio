@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T10:25:32.623Z" agent="5.0 (Windows)" etag="c01dMX1xyP_M6cRq-GRs" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T10:31:44.399Z" agent="5.0 (Windows)" etag="BafzM8W_28JcyTeKSJNl" version="15.3.4" type="github">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,8 +25,14 @@
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-10" value="DLL" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="195" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;Contain 2 tranportation keys for:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Encrypt/decrypt card number and card ref.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Decrypt database connection string &lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=west;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="250" width="240" height="120" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Contain 2 transportation keys for:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;1. Encrypt/decrypt card number and card ref.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;2. Decrypt database connection string &lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=west;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-18" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="287" width="12.4" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="362.4" y="287" width="12.4" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
