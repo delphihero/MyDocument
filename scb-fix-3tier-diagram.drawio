@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T07:31:08.902Z" agent="5.0 (Windows)" version="15.3.4" etag="S7aJrD0oUL296ZhePOIT" type="github"><diagram id="9aHkWteQH5koF1psvJOh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T10:25:32.623Z" agent="5.0 (Windows)" etag="c01dMX1xyP_M6cRq-GRs" version="15.3.4" type="github">
+  <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-2" value="&lt;div&gt;DB2 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Database&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.database_server;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="43" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-3" value="&lt;div&gt;Web API&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server_blue;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="48" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-9" target="ys8oHW5ExI6m-6Dw5dze-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-15" value="&lt;div&gt;connect with DB2&lt;/div&gt;&lt;div&gt;(using connection string)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-9" target="ys8oHW5ExI6m-6Dw5dze-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-9" value="&lt;div&gt;Window&lt;/div&gt;&lt;div&gt;application&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="145" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-10" target="ys8oHW5ExI6m-6Dw5dze-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-10" value="DLL" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="195" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;Contain 2 tranportation keys for:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. Encrypt/decrypt card number and card ref.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Decrypt database connection string &lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=west;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="240" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
