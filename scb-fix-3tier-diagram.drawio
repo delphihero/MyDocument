@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T10:31:44.399Z" agent="5.0 (Windows)" etag="BafzM8W_28JcyTeKSJNl" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T14:29:41.837Z" agent="5.0 (Windows)" etag="KbZ0tihEXOj0HAjBiYvR" version="15.3.4" type="github">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-2" value="&lt;div&gt;DB2 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Database&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.database_server;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="43" height="56" as="geometry" />
+          <mxGeometry x="340" y="30" width="43" height="56" as="geometry" />
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-3" value="&lt;div&gt;Web API&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server_blue;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="48" height="57" as="geometry" />
+          <mxGeometry x="460" y="186.5" width="48" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-9" target="ys8oHW5ExI6m-6Dw5dze-10">
           <mxGeometry relative="1" as="geometry" />
@@ -16,23 +16,35 @@
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-15" value="&lt;div&gt;connect with DB2&lt;/div&gt;&lt;div&gt;(using connection string)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-9" target="ys8oHW5ExI6m-6Dw5dze-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-9" value="&lt;div&gt;Window&lt;/div&gt;&lt;div&gt;application&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="145" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-10" target="ys8oHW5ExI6m-6Dw5dze-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-10" value="DLL" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="195" width="40" height="30" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Contain hardcoded 2 transportation keys for:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;1. Encrypt/decrypt card number and card ref.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;2. Decrypt database connection string &lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=west;align=left;" vertex="1" parent="1">
+          <mxGeometry x="135" y="260" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Contain 2 transportation keys for:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;1. Encrypt/decrypt card number and card ref.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;2. Decrypt database connection string &lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=west;align=left;" vertex="1" parent="1">
-          <mxGeometry x="150" y="250" width="270" height="120" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="175" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-18" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="287" width="12.4" height="20" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-9" value="&lt;div&gt;Window&lt;/div&gt;&lt;div&gt;application&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="ys8oHW5ExI6m-6Dw5dze-23">
+          <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="362.4" y="287" width="12.4" height="20" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-22" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;hachureGap=4;pointerEvents=0;" vertex="1" parent="ys8oHW5ExI6m-6Dw5dze-23">
+          <mxGeometry x="40" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="195" width="60" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-10" value="DLL" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="ys8oHW5ExI6m-6Dw5dze-29">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-28" value="" style="group" vertex="1" connectable="0" parent="ys8oHW5ExI6m-6Dw5dze-29">
+          <mxGeometry x="25.599999999999966" y="17.5" width="22.800000000000068" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-18" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="ys8oHW5ExI6m-6Dw5dze-28">
+          <mxGeometry x="10.400000000000091" y="7" width="12.4" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-21" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="ys8oHW5ExI6m-6Dw5dze-28">
+          <mxGeometry width="12.4" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
