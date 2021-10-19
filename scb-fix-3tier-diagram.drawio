@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T14:42:36.374Z" agent="5.0 (Windows)" etag="v956RxsXwqU3-Ev-oIRl" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T14:42:57.862Z" agent="5.0 (Windows)" etag="ltVOXwdXcban4kocDP0_" version="15.3.4" type="github">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="1038" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-10" target="ys8oHW5ExI6m-6Dw5dze-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Contain hardcoded 2 transportation keys for:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;1. Encrypt/decrypt card number and card ref.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;2. Decrypt database connection string &lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=30;position=0.1;position2=0.14;base=21;" vertex="1" parent="1">
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Contain hardcoded 2 transportation keys for:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; 1. Encrypt/decrypt card number and card ref.&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;nbsp; 2. Decrypt database connection string &lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=30;position=0.1;position2=0.14;base=21;" vertex="1" parent="1">
           <mxGeometry x="260" y="86.5" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-23" value="" style="group" vertex="1" connectable="0" parent="1">
