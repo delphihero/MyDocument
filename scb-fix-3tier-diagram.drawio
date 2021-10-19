@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T14:42:57.862Z" agent="5.0 (Windows)" etag="ltVOXwdXcban4kocDP0_" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T14:43:11.113Z" agent="5.0 (Windows)" etag="NN4ub2uqNG_d_C4CW04N" version="15.3.4" type="github">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="1038" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,7 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-15" value="&lt;div&gt;connect with DB2&lt;/div&gt;&lt;div&gt;(using connection string)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-9" target="ys8oHW5ExI6m-6Dw5dze-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.1143" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="ys8oHW5ExI6m-6Dw5dze-10" target="ys8oHW5ExI6m-6Dw5dze-3">
           <mxGeometry relative="1" as="geometry" />
