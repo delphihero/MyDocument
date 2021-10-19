@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T14:47:41.574Z" agent="5.0 (Windows)" etag="_nmOV-aRrXBJFS8hId3i" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T14:48:42.317Z" agent="5.0 (Windows)" etag="v3K9ORjntPalfz3xic7t" version="15.3.4" type="github" pages="2">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="1038" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,6 +53,64 @@
         </mxCell>
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-31" value="2. get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="323" y="219.5" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U1ADppB_8akDyZMcdUrm" name="dll-with-fixkeys">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-0" />
+        <mxCell id="EPCrCns3FjOLMthZxB4p-1" parent="EPCrCns3FjOLMthZxB4p-0" />
+        <mxCell id="EPCrCns3FjOLMthZxB4p-2" value="&lt;div&gt;DB2 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Database&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.database_server;hachureGap=4;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="201.5" y="40" width="43" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-3" value="&lt;div&gt;Web API&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server_blue;hachureGap=4;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="500" y="282.5" width="48" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="EPCrCns3FjOLMthZxB4p-1" source="EPCrCns3FjOLMthZxB4p-9" target="EPCrCns3FjOLMthZxB4p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-5" value="&lt;div&gt;connect with DB2&lt;/div&gt;&lt;div&gt;(using connection string)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="EPCrCns3FjOLMthZxB4p-1" source="EPCrCns3FjOLMthZxB4p-9" target="EPCrCns3FjOLMthZxB4p-2">
+          <mxGeometry x="-0.1143" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="EPCrCns3FjOLMthZxB4p-1" source="EPCrCns3FjOLMthZxB4p-12" target="EPCrCns3FjOLMthZxB4p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-7" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;Contain hardcoded 2 transportation keys for:&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;&amp;nbsp; 1. Encrypt/decrypt card number and card ref.&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;&amp;nbsp; 2. Decrypt database connection string &lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=60;position=0.11;position2=0;base=40;fontStyle=2;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="240" y="146" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-8" value="" style="group" vertex="1" connectable="0" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="60" y="271" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-9" value="&lt;div&gt;Window&lt;/div&gt;&lt;div&gt;application&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-8">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-8">
+          <mxGeometry x="40" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-11" value="" style="group" vertex="1" connectable="0" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="201.5" y="291" width="60" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-12" value="DLL" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-11">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-13" value="" style="group" vertex="1" connectable="0" parent="EPCrCns3FjOLMthZxB4p-11">
+          <mxGeometry x="25.599999999999966" y="17.5" width="22.800000000000068" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-14" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-13">
+          <mxGeometry x="10.400000000000091" y="7" width="12.4" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-15" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-13">
+          <mxGeometry width="12.4" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-16" value="1. get connection string" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="330" y="282.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPCrCns3FjOLMthZxB4p-17" value="2. get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="333" y="315.5" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
