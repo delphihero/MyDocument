@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T02:59:16.037Z" agent="5.0 (Windows)" etag="QKFWLuvO69W4zaDBWEjS" version="15.3.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-20T04:57:09.575Z" agent="5.0 (Windows)" etag="GWbBkC4qBHoyNO8oNRw0" version="15.3.4" type="github" pages="3">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="2207" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,11 +44,11 @@
         <mxCell id="ys8oHW5ExI6m-6Dw5dze-14" value="&lt;div&gt;DZ develop the card application that:&lt;/div&gt;&lt;div&gt;1. store transportation keys and&lt;/div&gt;&lt;div&gt;2. provide the PIN verification, encrypt and decrypt data (conn string &amp;amp; card ref) methods.&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=60;position=0.11;position2=0;base=40;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="10" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-30" value="1. get connection string" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="186.5" width="140" height="20" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-30" value="1. call api: get connection string" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="186.5" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ys8oHW5ExI6m-6Dw5dze-31" value="2. get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="219.5" width="90" height="20" as="geometry" />
+        <mxCell id="ys8oHW5ExI6m-6Dw5dze-31" value="2. call api: get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="219.5" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -84,11 +84,11 @@
         <mxCell id="EPCrCns3FjOLMthZxB4p-7" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;DLL contain hardcoded 2 transportation keys for:&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;&amp;nbsp; 1. Encrypt/decrypt card number and card ref.&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;&amp;nbsp; 2. Decrypt database connection string &lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=60;position=0.11;position2=0;base=40;fontStyle=2;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
           <mxGeometry x="200" y="130.25" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EPCrCns3FjOLMthZxB4p-16" value="1. get connection string" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
-          <mxGeometry x="280" y="282.5" width="140" height="20" as="geometry" />
+        <mxCell id="EPCrCns3FjOLMthZxB4p-16" value="1. call api: get connection string" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="260" y="282.5" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EPCrCns3FjOLMthZxB4p-17" value="2. get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
-          <mxGeometry x="280" y="317.75" width="90" height="20" as="geometry" />
+        <mxCell id="EPCrCns3FjOLMthZxB4p-17" value="2. call api: get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="EPCrCns3FjOLMthZxB4p-1">
+          <mxGeometry x="260" y="317.75" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-1UW3NMeq1yQJTIweV-J-0" value="" style="group" vertex="1" connectable="0" parent="EPCrCns3FjOLMthZxB4p-1">
           <mxGeometry x="31" y="247.25" width="133.43" height="90.5" as="geometry" />
