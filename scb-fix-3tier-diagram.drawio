@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T02:54:59.886Z" agent="5.0 (Windows)" etag="bgqCgvcdp5Q61fLH-cLw" version="15.3.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-20T02:59:16.037Z" agent="5.0 (Windows)" etag="QKFWLuvO69W4zaDBWEjS" version="15.3.4" type="github" pages="3">
   <diagram id="9aHkWteQH5koF1psvJOh" name="dll-plus-smartcard">
     <mxGraphModel dx="2207" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -139,20 +139,35 @@
         </mxCell>
         <mxCell id="FMX1VAhXudMzEj0dL96k-0" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=none;" vertex="1" connectable="0" parent="rBar4g3eod7iaokdLJIQ-3">
           <mxGeometry x="-0.5959" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-29" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rBar4g3eod7iaokdLJIQ-4" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;No DLL contain hardcoded 2 transportation keys &lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=60;position=0.11;position2=0;base=40;fontStyle=2;" vertex="1" parent="qVHkhsiyOb8f2gNtdPtL-1">
-          <mxGeometry x="150" y="-140" width="260" height="140" as="geometry" />
+        <mxCell id="rBar4g3eod7iaokdLJIQ-4" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;DLL contain hardcoded one transportation keys for:&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span&gt;&amp;nbsp; 1. Encrypt/decrypt card number and card ref.&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;pointerEvents=0;direction=east;align=left;size=60;position=0.11;position2=0;base=40;fontStyle=2;" vertex="1" parent="qVHkhsiyOb8f2gNtdPtL-1">
+          <mxGeometry x="60" y="-110" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rBar4g3eod7iaokdLJIQ-8" value="(Client App)" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;fontStyle=1" vertex="1" parent="qVHkhsiyOb8f2gNtdPtL-1">
           <mxGeometry x="70" y="30" width="84.43" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="B-bEeOHRxBDdiVEE9EaE-0" value="1. get card ref." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="qVHkhsiyOb8f2gNtdPtL-1">
-          <mxGeometry x="260" y="30" width="90" height="20" as="geometry" />
+          <mxGeometry x="220" y="30" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B-bEeOHRxBDdiVEE9EaE-1" value="2. get db data" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="qVHkhsiyOb8f2gNtdPtL-1">
-          <mxGeometry x="260" y="60" width="90" height="20" as="geometry" />
+        <mxCell id="B-bEeOHRxBDdiVEE9EaE-1" value="2. communicate with DB via web API " style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="qVHkhsiyOb8f2gNtdPtL-1">
+          <mxGeometry x="220" y="65.25" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lBp9YCkE9BVowByqywq--2" value="d" style="group" vertex="1" connectable="0" parent="qVHkhsiyOb8f2gNtdPtL-1">
+          <mxGeometry x="20" y="40.75" width="60" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lBp9YCkE9BVowByqywq--3" value="&lt;div&gt;dll&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;hachureGap=4;pointerEvents=0;" vertex="1" parent="lBp9YCkE9BVowByqywq--2">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lBp9YCkE9BVowByqywq--4" value="" style="group" vertex="1" connectable="0" parent="lBp9YCkE9BVowByqywq--2">
+          <mxGeometry x="25.599999999999966" y="17.5" width="22.800000000000068" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="lBp9YCkE9BVowByqywq--5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="lBp9YCkE9BVowByqywq--4">
+          <mxGeometry x="10.400000000000091" y="7" width="12.4" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lBp9YCkE9BVowByqywq--6" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;hachureGap=4;pointerEvents=0;" vertex="1" parent="lBp9YCkE9BVowByqywq--4">
+          <mxGeometry width="12.4" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
