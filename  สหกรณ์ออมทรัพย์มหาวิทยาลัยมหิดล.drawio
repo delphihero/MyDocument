@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T14:47:33.632Z" agent="5.0 (Windows)" etag="5kmvcpAzG5dPxFO9TJM1" version="16.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-17T14:48:46.747Z" agent="5.0 (Windows)" etag="M1q1VUPZ2-lXf60N5TYf" version="16.2.7" type="github" pages="2">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="k4949YvmrjTWCeaHfor4-1" value="Update PIN" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NcX90leWworeBCVQVa97-1" source="dlyK0kpFsIVk_qjYY4bV-0" target="k4949YvmrjTWCeaHfor4-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dlyK0kpFsIVk_qjYY4bV-0" value="&lt;div&gt;PIN Setting &lt;br&gt;&lt;/div&gt;&lt;div&gt;Applicarion&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="NcX90leWworeBCVQVa97-1">
+        <mxCell id="dlyK0kpFsIVk_qjYY4bV-0" value="&lt;div&gt;PIN Setting &lt;br&gt;&lt;/div&gt;&lt;div&gt;Applicarion (*2)&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="NcX90leWworeBCVQVa97-1">
           <mxGeometry x="590" y="121" width="89.1" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="dlyK0kpFsIVk_qjYY4bV-4" value="Load key" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NcX90leWworeBCVQVa97-1">
@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dlyK0kpFsIVk_qjYY4bV-3" value="&lt;div&gt;Key Loading &lt;br&gt;&lt;/div&gt;&lt;div&gt;Application&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="NcX90leWworeBCVQVa97-1">
+        <mxCell id="dlyK0kpFsIVk_qjYY4bV-3" value="&lt;div&gt;Key Loading &lt;br&gt;&lt;/div&gt;&lt;div&gt;Application (*1)&lt;br&gt;&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="NcX90leWworeBCVQVa97-1">
           <mxGeometry x="590" y="328.43" width="89.1" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="k4949YvmrjTWCeaHfor4-4" value="&lt;div&gt;PIN Value &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NcX90leWworeBCVQVa97-1">
@@ -130,7 +130,7 @@
           <mxGeometry x="140" y="110.5" width="95.24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k4949YvmrjTWCeaHfor4-0" value="Web service" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="NcX90leWworeBCVQVa97-1">
-          <mxGeometry x="890" y="220" width="126.19" height="79.5" as="geometry" />
+          <mxGeometry x="840" y="210" width="126.19" height="79.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
