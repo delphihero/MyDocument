@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T01:59:22.206Z" agent="5.0 (Windows)" etag="oL22_hZhrXQV_HEomjv1" version="16.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-18T02:04:22.803Z" agent="5.0 (Windows)" etag="VzqvL2-TDGDHxPHz05o0" version="16.2.7" type="github" pages="3">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,14 +164,44 @@
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-2" value="เป็นบัตรใหม่?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="356" y="280" width="116" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-6" target="xHX1wRhjGJzY3_RNoTHw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-6" value="ตรวจสอบข้อมูลบัตร" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-7" target="xHX1wRhjGJzY3_RNoTHw-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-7" value="ลงทะเบียนบัตรใหม่" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-8" target="xHX1wRhjGJzY3_RNoTHw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-8" value="&lt;div&gt;สมาชิคใส่ PIN&lt;/div&gt;&lt;div&gt;ที่เครี่อง PINPAD&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="356" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-13" value="สิ้นสุด" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+          <mxGeometry x="359" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-14" target="xHX1wRhjGJzY3_RNoTHw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-14" target="xHX1wRhjGJzY3_RNoTHw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-14" value="ข้อมูลบัตรถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+          <mxGeometry x="615" y="435" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-19" target="xHX1wRhjGJzY3_RNoTHw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-19" value="&lt;div&gt;พนักงาน&lt;/div&gt;&lt;div&gt;รูดบัตรแถบแม่เหล็ก&lt;/div&gt;&lt;div&gt;เพื่อยืนยันอีกครั้ง&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+          <mxGeometry x="356" y="593" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-21" value="&lt;div&gt;หมายเลขบัตร&lt;/div&gt;&lt;div&gt;และ PIN ถูกต้อง?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+          <mxGeometry x="361" y="710" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
