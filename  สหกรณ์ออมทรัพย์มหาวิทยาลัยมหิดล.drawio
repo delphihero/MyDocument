@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T02:47:51.525Z" agent="5.0 (Windows)" etag="B6hZWTkpUBMQycKmO_iZ" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-18T02:49:43.938Z" agent="5.0 (Windows)" etag="lysbVzd_hfBepIG1S9PY" version="16.2.7" type="github" pages="4">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-8" value="&lt;div&gt;สมาชิคใส่ PIN&lt;/div&gt;&lt;div&gt;ที่เครี่อง PINPAD&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="356" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="356" y="439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-13" value="สิ้นสุด" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="356.5" y="1030" width="120" height="80" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-14" value="ข้อมูลถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="615" y="435" width="90" height="90" as="geometry" />
+          <mxGeometry x="615" y="426" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="CfuJfBSS66ykbrkOD8kR-0" target="xHX1wRhjGJzY3_RNoTHw-21">
           <mxGeometry relative="1" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-19" value="&lt;div&gt;พนักงาน&lt;/div&gt;&lt;div&gt;รูดบัตรแถบแม่เหล็ก&lt;/div&gt;&lt;div&gt;เพื่อยืนยันอีกครั้ง&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="356" y="558" width="120" height="60" as="geometry" />
+          <mxGeometry x="356" y="549" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-24" value="ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-21" target="xHX1wRhjGJzY3_RNoTHw-23">
           <mxGeometry relative="1" as="geometry" />
@@ -230,8 +230,8 @@
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-23" value="&lt;div&gt;บันทึก PIN&lt;/div&gt;&lt;div&gt;(call web API)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="356" y="918" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6m7Inc_6kC7rgjCxUJp-0" value="&lt;div&gt;web server ส่งข้อมูลไปแสดงที่ web browser&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="354" y="175" width="120" height="60" as="geometry" />
+        <mxCell id="a6m7Inc_6kC7rgjCxUJp-0" value="&lt;div&gt;web server ส่งข้อมูลไปแสดงที่ web browser เพื่อให้พนักงานตรวจสอบ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+          <mxGeometry x="346" y="182" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZH8-5dWG3oac9rD81I0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="a6m7Inc_6kC7rgjCxUJp-1" target="PZH8-5dWG3oac9rD81I0-0">
           <mxGeometry relative="1" as="geometry" />
@@ -267,7 +267,7 @@
           <mxGeometry x="364" y="30" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CfuJfBSS66ykbrkOD8kR-0" value="โปรแกรมตจวจสอบข้อมูลหมายเลขบัตรและ PIN format" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="356.5" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="356.5" y="655" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
