@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T02:56:18.745Z" agent="5.0 (Windows)" etag="3AgjEGiCXxp6zKGrGblJ" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-18T02:56:35.030Z" agent="5.0 (Windows)" etag="_Wf5HDZH-pmlJ1FjhoSD" version="16.2.7" type="github" pages="4">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfuJfBSS66ykbrkOD8kR-3" value="superisor กรอกข้อมูลเพื่อรับรองการเปลี่ยน PIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="361" y="442" width="119" height="57" as="geometry" />
+          <mxGeometry x="357" y="442" width="119" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
