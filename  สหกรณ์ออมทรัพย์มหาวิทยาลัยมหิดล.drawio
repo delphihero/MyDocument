@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T02:42:41.229Z" agent="5.0 (Windows)" etag="SjV3xw8BA3eYmHHyI_mN" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-18T02:44:51.585Z" agent="5.0 (Windows)" etag="Qh_ckurI4O8wfpYZo1bB" version="16.2.7" type="github" pages="4">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="46e0_aoWfZXYs5ZV0SED" name="overview">
-    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NcX90leWworeBCVQVa97-0" />
         <mxCell id="NcX90leWworeBCVQVa97-1" parent="NcX90leWworeBCVQVa97-0" />
@@ -160,7 +160,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-1" value="&lt;div&gt;พนักงาน&lt;/div&gt;&lt;div&gt;รูดบัตรแถบแม่เหล็ก&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
-          <mxGeometry x="354" y="-286" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="-288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-10" value="บัตรเก่า" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-2" target="xHX1wRhjGJzY3_RNoTHw-6">
           <mxGeometry relative="1" as="geometry" />
@@ -174,7 +174,7 @@
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-6" target="xHX1wRhjGJzY3_RNoTHw-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHX1wRhjGJzY3_RNoTHw-6" value="&lt;div&gt;พนักงาน&lt;br&gt;&lt;/div&gt;&lt;div&gt;ตรวจสอบข้อมูลบัตร&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-6" value="&lt;div&gt;พนักงาน&lt;br&gt;&lt;/div&gt;&lt;div&gt;ตรวจสอบข้อมูลบัตรและสมาชิค&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-7" target="xHX1wRhjGJzY3_RNoTHw-8">
@@ -198,7 +198,7 @@
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-16" value="ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-14" target="xHX1wRhjGJzY3_RNoTHw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHX1wRhjGJzY3_RNoTHw-14" value="ข้อมูลบัตรถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
+        <mxCell id="xHX1wRhjGJzY3_RNoTHw-14" value="ข้อมูลถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ncq-53wTFutnXxiYwMQ1-1">
           <mxGeometry x="615" y="435" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xHX1wRhjGJzY3_RNoTHw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ncq-53wTFutnXxiYwMQ1-1" source="xHX1wRhjGJzY3_RNoTHw-19" target="xHX1wRhjGJzY3_RNoTHw-21">
