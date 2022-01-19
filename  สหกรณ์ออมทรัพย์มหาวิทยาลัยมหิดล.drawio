@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T03:49:45.057Z" agent="5.0 (Windows)" etag="hvM783OP4qMGocZDqLvy" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-19T05:11:18.344Z" agent="5.0 (Windows)" etag="gBp_DjDqZe4ptcOA4Hlu" version="16.2.7" type="github" pages="4">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
           <mxGeometry x="330" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xlQ03DzqdwkrjsaZWPcA-3" value="สิ้นสุด" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="335" y="1224.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="1334.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xlQ03DzqdwkrjsaZWPcA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="xlQ03DzqdwkrjsaZWPcA-4" target="xlQ03DzqdwkrjsaZWPcA-5">
           <mxGeometry relative="1" as="geometry" />
@@ -342,8 +342,8 @@
         <mxCell id="xlQ03DzqdwkrjsaZWPcA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="xlQ03DzqdwkrjsaZWPcA-6" target="xlQ03DzqdwkrjsaZWPcA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xlQ03DzqdwkrjsaZWPcA-6" value="บันทึกค่า key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="335" y="1130" width="120" height="60" as="geometry" />
+        <mxCell id="xlQ03DzqdwkrjsaZWPcA-6" value="โปรแกรมทำการ download key ลงใน PINPAD terminal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
+          <mxGeometry x="330" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-13" value="ไม่ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="xlQ03DzqdwkrjsaZWPcA-7" target="qWpGtHr-13uWkbOMbjm5-1">
           <mxGeometry relative="1" as="geometry">
@@ -365,6 +365,9 @@
         <mxCell id="qWpGtHr-13uWkbOMbjm5-1" value="สหกรณ์ออมทรัพย์มหาวิทยาลัยมหิดล ใส่ค่า transport key (key components) ในโปรแกรม " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
           <mxGeometry x="320" y="475" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-2" target="qWpGtHr-13uWkbOMbjm5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-2" value="สหกรณ์ออมทรัพย์มหาวิทยาลัยมหิดล ใส่ค่า PINPAD key (encrypted key with check value) ในโปรแกรมของ DZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
           <mxGeometry x="320" y="908" width="140" height="80" as="geometry" />
         </mxCell>
@@ -380,14 +383,31 @@
         <mxCell id="qWpGtHr-13uWkbOMbjm5-11" value="&lt;div&gt;โปรแกรมบันทึกค่า&lt;br&gt;&lt;/div&gt;&lt;div&gt;transport key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
           <mxGeometry x="320" y="810" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-26" value="ไม่ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-15" target="qWpGtHr-13uWkbOMbjm5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1160" />
+              <mxPoint x="620" y="948" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-15" target="xlQ03DzqdwkrjsaZWPcA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-15" value="&lt;div&gt;PINPAD key &lt;br&gt;&lt;/div&gt;&lt;div&gt;ถูกต้อง?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="330" y="1040" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-17" target="xlQ03DzqdwkrjsaZWPcA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-17" value="&lt;div&gt;โปรแกรมตรวจสอบค่า&lt;/div&gt;&lt;div&gt;transport key&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
           <mxGeometry x="320" y="590" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-21" target="qWpGtHr-13uWkbOMbjm5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-21" value="&lt;div&gt;โปรแกรมตรวจสอบค่า&lt;/div&gt;&lt;div&gt;PINPAD key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
+          <mxGeometry x="320" y="1027" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
