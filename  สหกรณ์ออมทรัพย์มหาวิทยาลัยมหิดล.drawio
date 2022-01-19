@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T14:05:03.840Z" agent="5.0 (Windows)" etag="Db6sv5jvhw1z48ircEPm" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T14:06:45.689Z" agent="5.0 (Windows)" etag="9LIHecZet4kyPf4PlzLk" version="16.2.7" type="github" pages="5">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -486,7 +486,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1G3brCYUZRmsekauVda-0" value="&lt;div&gt;โปรแกรมส่งข้อมูล&lt;/div&gt;&lt;div&gt;PIN และ หมายเลขบัตร&lt;/div&gt;&lt;div&gt;ไปอัปเดทที่ server&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="30.25" y="931" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="931" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K1G3brCYUZRmsekauVda-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ข้อมูลถูกต้อง?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="585" y="691" width="110" height="60" as="geometry" />
@@ -503,14 +503,14 @@
         <mxCell id="K1G3brCYUZRmsekauVda-11" value="Server ทำการอัปเดท PIN .ในระบบที่ตรงกับหมายเลขบัตรที่ได้รับ" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="400" y="931" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LRoQxm2YmFth03VJ9r2L-0" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="-200" y="340" width="26" height="26" as="geometry" />
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-0" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="182" y="751" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LRoQxm2YmFth03VJ9r2L-1" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="-190" y="350" width="26" height="26" as="geometry" />
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-1" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="182" y="657" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LRoQxm2YmFth03VJ9r2L-2" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="200" y="562" width="26" height="26" as="geometry" />
+          <mxGeometry x="182" y="559" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LRoQxm2YmFth03VJ9r2L-3" value="6.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="720" y="597.5" width="26" height="26" as="geometry" />
@@ -535,6 +535,12 @@
         </mxCell>
         <mxCell id="LRoQxm2YmFth03VJ9r2L-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="200" y="197" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-15" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="447" y="900" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-16" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="73" y="995" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
