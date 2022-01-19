@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T05:16:07.008Z" agent="5.0 (Windows)" etag="5KNPN3F2v5BLWxngcBPS" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-19T06:14:21.767Z" agent="5.0 (Windows)" etag="zWaFusOXfnr29HZJQki2" version="16.2.7" type="github" pages="4">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,13 +343,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xlQ03DzqdwkrjsaZWPcA-6" value="โปรแกรมทำการ download key ลงใน PINPAD terminal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="330" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-13" value="ไม่ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="xlQ03DzqdwkrjsaZWPcA-7" target="qWpGtHr-13uWkbOMbjm5-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="721" />
-              <mxPoint x="600" y="520" />
+              <mxPoint x="600" y="722" />
+              <mxPoint x="600" y="503" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -362,14 +362,14 @@
         <mxCell id="qWpGtHr-13uWkbOMbjm5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-1" target="qWpGtHr-13uWkbOMbjm5-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qWpGtHr-13uWkbOMbjm5-1" value="สหกรณ์ออมทรัพย์มหาวิทยาลัยมหิดล ใส่ค่า transport key (key components) ในโปรแกรม " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="320" y="475" width="140" height="80" as="geometry" />
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-1" value="ใส่ค่า transport key (key components) ในโปรแกรม " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
+          <mxGeometry x="320" y="475" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-2" target="qWpGtHr-13uWkbOMbjm5-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qWpGtHr-13uWkbOMbjm5-2" value="สหกรณ์ออมทรัพย์มหาวิทยาลัยมหิดล ใส่ค่า PINPAD key (encrypted key with check value) ในโปรแกรมของ DZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="320" y="908" width="140" height="80" as="geometry" />
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-2" value="ใส่ค่า PINPAD key (encrypted key with check value) ในโปรแกรม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
+          <mxGeometry x="320" y="908" width="140" height="62" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-3" target="qWpGtHr-13uWkbOMbjm5-1">
           <mxGeometry relative="1" as="geometry" />
@@ -387,11 +387,11 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="1160" />
-              <mxPoint x="620" y="948" />
+              <mxPoint x="620" y="939" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qWpGtHr-13uWkbOMbjm5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-15" target="xlQ03DzqdwkrjsaZWPcA-6">
+        <mxCell id="qWpGtHr-13uWkbOMbjm5-27" value="ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xlQ03DzqdwkrjsaZWPcA-1" source="qWpGtHr-13uWkbOMbjm5-15" target="xlQ03DzqdwkrjsaZWPcA-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-15" value="&lt;div&gt;PINPAD key &lt;br&gt;&lt;/div&gt;&lt;div&gt;ถูกต้อง?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
@@ -419,7 +419,7 @@
           <mxGeometry x="480" y="607" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MQNj0GuAs4Q3U-L28J-T-3" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="480" y="490" width="26" height="26" as="geometry" />
+          <mxGeometry x="480" y="475" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MQNj0GuAs4Q3U-L28J-T-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
           <mxGeometry x="480" y="387" width="26" height="26" as="geometry" />
@@ -434,7 +434,7 @@
           <mxGeometry x="480" y="1044" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MQNj0GuAs4Q3U-L28J-T-9" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="480" y="920" width="26" height="26" as="geometry" />
+          <mxGeometry x="480" y="908" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
