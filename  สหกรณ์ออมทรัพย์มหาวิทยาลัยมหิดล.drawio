@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T03:48:58.949Z" agent="5.0 (Windows)" etag="mUbUu09KyD5adUbji6Zd" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-19T03:49:17.960Z" agent="5.0 (Windows)" etag="BCq8HVULjthLjU47rtln" version="16.2.7" type="github" pages="4">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,7 +363,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-1" value="สหกรณ์ออมทรัพย์มหาวิทยาลัยมหิดล ใส่ค่า transport key (key components) ในโปรแกรม " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
-          <mxGeometry x="320" y="480" width="140" height="80" as="geometry" />
+          <mxGeometry x="320" y="475" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qWpGtHr-13uWkbOMbjm5-2" value="สหกรณ์ออมทรัพย์มหาวิทยาลัยมหิดล ใส่ค่า PINPAD key (encrypted key with check value) ในโปรแกรมของ DZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xlQ03DzqdwkrjsaZWPcA-1">
           <mxGeometry x="320" y="900" width="140" height="80" as="geometry" />
