@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T13:58:08.025Z" agent="5.0 (Windows)" etag="Ctj5TsAn6gCIdWkX0ap7" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T14:05:03.840Z" agent="5.0 (Windows)" etag="Db6sv5jvhw1z48ircEPm" version="16.2.7" type="github" pages="5">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,7 +353,7 @@
         <mxCell id="qfwj6pfVI1yhC2ZR3Qy--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="lgiaqKP72jNX0SXaEpS1-9" target="lgiaqKP72jNX0SXaEpS1-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="450" />
+              <mxPoint x="360" y="460" />
               <mxPoint x="360" y="210" />
             </Array>
           </mxGeometry>
@@ -421,13 +421,14 @@
         <mxCell id="WX5zC6Kmsq05jRm5ir_d-2" value="&lt;div&gt;สมาชิคใส่ PIN&lt;/div&gt;&lt;div&gt;ที่เครี่อง PINPAD&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFCC;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="8" y="565" width="166" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xkb6uFq1nyLeal47gVG8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-3" target="WX5zC6Kmsq05jRm5ir_d-2">
+        <mxCell id="xkb6uFq1nyLeal47gVG8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349" y="725" as="sourcePoint" />
+            <mxPoint x="174" y="590" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390" y="720" />
-              <mxPoint x="319" y="720" />
-              <mxPoint x="319" y="585" />
+              <mxPoint x="360" y="720" />
+              <mxPoint x="360" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -442,11 +443,13 @@
         <mxCell id="WX5zC6Kmsq05jRm5ir_d-4" value="&lt;div&gt;พนักงานตรวจสอบข้อมูล&lt;/div&gt;&lt;div&gt;บัตรและข้อมูลสมาชิค&lt;/div&gt;&lt;div&gt;(browser)&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFCC;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="570" y="580.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K1G3brCYUZRmsekauVda-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-5" target="WX5zC6Kmsq05jRm5ir_d-2">
+        <mxCell id="K1G3brCYUZRmsekauVda-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-5">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="590" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="500" />
-              <mxPoint x="360" y="585" />
+              <mxPoint x="360" y="590" />
+              <mxPoint x="174" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -499,6 +502,39 @@
         </mxCell>
         <mxCell id="K1G3brCYUZRmsekauVda-11" value="Server ทำการอัปเดท PIN .ในระบบที่ตรงกับหมายเลขบัตรที่ได้รับ" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="400" y="931" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-0" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="-200" y="340" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-1" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="-190" y="350" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-2" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="200" y="562" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-3" value="6.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="720" y="597.5" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-4" value="6.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="440" y="437" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-5" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="730" y="396" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="730" y="197" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-7" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="200" y="430" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-8" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="200" y="357" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-9" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="200" y="277" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LRoQxm2YmFth03VJ9r2L-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+          <mxGeometry x="200" y="197" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
