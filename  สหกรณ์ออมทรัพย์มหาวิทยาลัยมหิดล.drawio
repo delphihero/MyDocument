@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T09:49:00.522Z" agent="5.0 (Windows)" etag="mYNzEmF8ldrghsYytTei" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T09:52:54.523Z" agent="5.0 (Windows)" etag="vp59xjobfarPAkzSld94" version="16.2.7" type="github" pages="5">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,10 +318,10 @@
       <root>
         <mxCell id="Kplg9crDJikiyZ3sOnMf-0" />
         <mxCell id="Kplg9crDJikiyZ3sOnMf-1" parent="Kplg9crDJikiyZ3sOnMf-0" />
-        <mxCell id="VCxB0LDxFYUsxKk5c_9E-0" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;สหกรณ์ออมทรัพย์ backend&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#99FFFF;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+        <mxCell id="VCxB0LDxFYUsxKk5c_9E-0" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;สหกรณ์ออมทรัพย์ &lt;br&gt;&lt;/div&gt;&lt;div&gt;frontend &amp;amp; backend&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#99FFFF;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="480" y="30" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCxB0LDxFYUsxKk5c_9E-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;dz โปรแกรม&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#99FFFF;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+        <mxCell id="VCxB0LDxFYUsxKk5c_9E-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;dz PIN Setting โปรแกรม&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=20;dashed=1;fillColor=#99FFFF;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="40" y="30" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lgiaqKP72jNX0SXaEpS1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="uw_mDncX84KKrFAKxtk5-0" target="lgiaqKP72jNX0SXaEpS1-0">
@@ -452,10 +452,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1G3brCYUZRmsekauVda-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="puZQFSyt5HS8Ye9KxNks-0" target="K1G3brCYUZRmsekauVda-0">
+        <mxCell id="K1G3brCYUZRmsekauVda-1" value="ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="puZQFSyt5HS8Ye9KxNks-0" target="K1G3brCYUZRmsekauVda-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K1G3brCYUZRmsekauVda-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="puZQFSyt5HS8Ye9KxNks-0" target="9-5n-Q0wpF97_y5ZsCly-1">
+        <mxCell id="K1G3brCYUZRmsekauVda-10" value="ไม่ถูกต้อง" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="puZQFSyt5HS8Ye9KxNks-0" target="9-5n-Q0wpF97_y5ZsCly-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="870" />
@@ -470,7 +470,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1G3brCYUZRmsekauVda-0" value="&lt;div&gt;บันทึก PIN&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="109.25" y="940" width="120" height="40" as="geometry" />
+          <mxGeometry x="109.25" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K1G3brCYUZRmsekauVda-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ข้อมูลถูกต้อง?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="620" y="696" width="110" height="60" as="geometry" />
