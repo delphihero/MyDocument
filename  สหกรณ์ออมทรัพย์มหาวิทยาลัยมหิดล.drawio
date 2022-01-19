@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T14:06:45.689Z" agent="5.0 (Windows)" etag="9LIHecZet4kyPf4PlzLk" version="16.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-19T14:07:19.084Z" agent="5.0 (Windows)" etag="DVqV-rvmcal4HngBoVRl" version="16.2.7" type="github" pages="5">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
         <mxCell id="lgiaqKP72jNX0SXaEpS1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="lgiaqKP72jNX0SXaEpS1-2" target="uw_mDncX84KKrFAKxtk5-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lgiaqKP72jNX0SXaEpS1-2" value="เริ่ม" style="ellipse;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+        <mxCell id="lgiaqKP72jNX0SXaEpS1-2" value="เริ่ม" style="ellipse;fillColor=#FFFFCC;strokeColor=#000000;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="53.5" y="110" width="78" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zp01dpNRFH7AucTYSG0N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="lgiaqKP72jNX0SXaEpS1-8">
@@ -390,7 +390,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-5n-Q0wpF97_y5ZsCly-1" value="สิ้นสุด" style="ellipse;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+        <mxCell id="9-5n-Q0wpF97_y5ZsCly-1" value="สิ้นสุด" style="ellipse;fillColor=#FFFFCC;strokeColor=#000000;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="423.5" y="1040" width="73" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bXdE0qyzlDWCNp5k-kRf-0" value="บัตรใหม่" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="K1G3brCYUZRmsekauVda-4" target="WX5zC6Kmsq05jRm5ir_d-5">
