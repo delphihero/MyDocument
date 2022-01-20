@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T04:22:16.497Z" agent="5.0 (Windows)" etag="yCrJilFCStkARbkNjshh" version="16.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-20T06:50:03.260Z" agent="5.0 (Windows)" etag="zXM2U2nxRAikHBwb_pH7" version="16.2.7" type="github" pages="6">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -424,7 +424,7 @@
         <mxCell id="YAbDU0oQwsqj7nlaEdCS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-2" target="WX5zC6Kmsq05jRm5ir_d-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WX5zC6Kmsq05jRm5ir_d-2" value="&lt;div&gt;สมาชิคใส่ PIN&lt;/div&gt;&lt;div&gt;ที่เครี่อง PINPAD&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFCC;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+        <mxCell id="WX5zC6Kmsq05jRm5ir_d-2" value="&lt;div&gt;สมาชิกใส่ PIN&lt;/div&gt;&lt;div&gt;ที่เครี่อง PINPAD&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFCC;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="8" y="490" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="LRoQxm2YmFth03VJ9r2L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-3" target="WX5zC6Kmsq05jRm5ir_d-2">
@@ -438,7 +438,7 @@
             <mxPoint x="682.5" y="753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WX5zC6Kmsq05jRm5ir_d-4" value="&lt;div&gt;พนักงานตรวจสอบข้อมูล&lt;/div&gt;&lt;div&gt;บัตรและข้อมูลสมาชิค&lt;/div&gt;&lt;div&gt;(browser)&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFCC;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
+        <mxCell id="WX5zC6Kmsq05jRm5ir_d-4" value="&lt;div&gt;พนักงานตรวจสอบข้อมูล&lt;/div&gt;&lt;div&gt;บัตรและข้อมูลสมาชิก&lt;/div&gt;&lt;div&gt;(browser)&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#FFFFCC;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="570" y="643.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRoQxm2YmFth03VJ9r2L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="WX5zC6Kmsq05jRm5ir_d-5" target="WX5zC6Kmsq05jRm5ir_d-2">
