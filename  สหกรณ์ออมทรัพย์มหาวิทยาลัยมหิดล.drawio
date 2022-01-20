@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T02:53:12.660Z" agent="5.0 (Windows)" etag="60O7-F4gMzQUbOd06a3D" version="16.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-20T02:54:53.231Z" agent="5.0 (Windows)" etag="t3ba_MxFCiMgD0TtfDTA" version="16.2.7" type="github" pages="6">
   <diagram id="nAARtGtbHw6J6I5QYAQa" name="Page-1">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
         <mxCell id="K1G3brCYUZRmsekauVda-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;หมายเลขบัตร&lt;/div&gt;&lt;div&gt;ถูกต้อง?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
           <mxGeometry x="575" y="323" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wVBmPcGlUMZ0WKnSe07b-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="K1G3brCYUZRmsekauVda-11" target="wVBmPcGlUMZ0WKnSe07b-4">
+        <mxCell id="wVBmPcGlUMZ0WKnSe07b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="K1G3brCYUZRmsekauVda-11" target="wVBmPcGlUMZ0WKnSe07b-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1G3brCYUZRmsekauVda-11" value="Server ทำการอัปเดท PIN .ในระบบตามหมายเลขบัตรที่ได้รับ" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
@@ -548,21 +548,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wVBmPcGlUMZ0WKnSe07b-0" value="&lt;div&gt;โปรแกรมเก็บ log &lt;br&gt;&lt;/div&gt;&lt;div&gt;การอัปเดท PIN &lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="29.38" y="995" width="130.75" height="60" as="geometry" />
+          <mxGeometry x="29.38" y="995" width="130.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wVBmPcGlUMZ0WKnSe07b-2" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="178" y="994" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="wVBmPcGlUMZ0WKnSe07b-7" value="สำเร็จ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="wVBmPcGlUMZ0WKnSe07b-4" target="wVBmPcGlUMZ0WKnSe07b-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wVBmPcGlUMZ0WKnSe07b-8" value="ไม่สำเร็จ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Kplg9crDJikiyZ3sOnMf-1" source="wVBmPcGlUMZ0WKnSe07b-4" target="9-5n-Q0wpF97_y5ZsCly-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wVBmPcGlUMZ0WKnSe07b-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;อัปเดท &lt;br&gt;&lt;/div&gt;&lt;div&gt;PIN สำเร็จ&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFFFCC;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="Kplg9crDJikiyZ3sOnMf-1">
-          <mxGeometry x="400" y="990" width="110" height="70" as="geometry" />
+          <mxGeometry x="178" y="996" width="26" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
