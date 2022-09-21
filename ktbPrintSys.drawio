@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T06:39:13.527Z" agent="5.0 (Windows)" etag="b1nfz67dNdgQcwHb5Xkw" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-21T06:39:45.116Z" agent="5.0 (Windows)" etag="NoPbM4oDL2KYU5XY96rg" version="16.5.3" type="github" pages="2">
   <diagram id="0F_aNbxlMHEGzsCLxVAk" name="Page-1">
     <mxGraphModel dx="2105" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="3smTvSWO0_MLCwHEx88V-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/ssl-certificate-128.png;fontFamily=Verdana;fontSize=36;" vertex="1" parent="2HSsAOKNLf4-_svYlJ5T-1">
           <mxGeometry x="750" y="640" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3smTvSWO0_MLCwHEx88V-67" value="Web app" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="2HSsAOKNLf4-_svYlJ5T-1">
+          <mxGeometry x="243.96" y="307.6" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
