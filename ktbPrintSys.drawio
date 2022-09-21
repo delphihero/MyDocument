@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T07:34:35.857Z" agent="5.0 (Windows)" etag="_Bkv2a18u3d6kLM_l0LM" version="16.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-21T07:58:36.388Z" agent="5.0 (Windows)" etag="6Zil6Gb3fmKD5m7HkGI-" version="16.5.3" type="github" pages="3">
   <diagram id="0F_aNbxlMHEGzsCLxVAk" name="Page-1">
     <mxGraphModel dx="2105" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
         <mxCell id="FzfUp0NaT8I_PhnoV34r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="lumdkD2LGqTZOcSV9PPt-1" source="FzfUp0NaT8I_PhnoV34r-0" target="FLMQ5cqJI4v363HyEIYP-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzfUp0NaT8I_PhnoV34r-0" value="&lt;div&gt;Card issuance&lt;/div&gt;&lt;div&gt;PC 1&lt;/div&gt;&lt;div&gt;สภากาชาติ&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;strokeColor=#3333FF;fillColor=#99FF99;" vertex="1" parent="lumdkD2LGqTZOcSV9PPt-1">
+        <mxCell id="FzfUp0NaT8I_PhnoV34r-0" value="&lt;div&gt;Card issuance&lt;/div&gt;&lt;div&gt;สภากาชาติ&lt;br&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;strokeColor=#3333FF;fillColor=#99FF99;" vertex="1" parent="lumdkD2LGqTZOcSV9PPt-1">
           <mxGeometry x="790" y="139" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FzfUp0NaT8I_PhnoV34r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="lumdkD2LGqTZOcSV9PPt-1" source="FzfUp0NaT8I_PhnoV34r-1" target="FLMQ5cqJI4v363HyEIYP-0">
