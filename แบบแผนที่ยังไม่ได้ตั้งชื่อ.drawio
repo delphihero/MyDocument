@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T06:45:27.867Z" agent="5.0 (Windows)" etag="aVHvooiUMb7LDbTbUxf0" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-24T06:45:43.035Z" agent="5.0 (Windows)" etag="n1yQTfw4vO8mk7FiAnnJ" version="20.5.3" type="github" pages="2">
   <diagram id="wc-A6Sfrnum5uIk4BeKL" name="overview">
     <mxGraphModel dx="1278" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
           <mxGeometry x="550" y="210" width="218.6" height="150" as="geometry" />
         </mxCell>
         <mxCell id="E0HKAIRG9OOZqyjIf8c9-1" value="&lt;div&gt;Card data&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="20" width="70" height="65.5" as="geometry" />
+          <mxGeometry x="614.3" y="5" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0zBVJ0aBSYypF__LJ1Eb-8" value="Perso room" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="-30" width="270" height="450" as="geometry" />
