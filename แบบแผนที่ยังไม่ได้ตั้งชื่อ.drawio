@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T06:56:06.410Z" agent="5.0 (Windows)" version="20.5.3" etag="-jYYG30B8ivvclyuvDMT" type="github"><diagram id="wc-A6Sfrnum5uIk4BeKL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T04:29:10.043Z" agent="5.0 (Windows)" etag="3mGPnhrdqvw4tjWXqnmo" version="20.5.3" type="github">
+  <diagram id="wc-A6Sfrnum5uIk4BeKL" name="หน้า-1">
+    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qd-2hAMW60egTf8o3CjC-6" value="Perso data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qd-2hAMW60egTf8o3CjC-3" target="qd-2hAMW60egTf8o3CjC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-3" value="KBANK Data" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="64.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-12" value="Processed data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qd-2hAMW60egTf8o3CjC-5" target="qd-2hAMW60egTf8o3CjC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-5" value="&lt;div&gt;(1)&lt;/div&gt;&lt;div&gt;Data conversion&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.business;busType=process" vertex="1" parent="1">
+          <mxGeometry x="370" y="69" width="100" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-7" value="Reporting" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.business;busType=process" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-8" value="&lt;div&gt;Perso Card&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.business;busType=process" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-9" value="QC Card" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.business;busType=process" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-10" value="Packing" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.business;busType=process" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="qd-2hAMW60egTf8o3CjC-11" value="&lt;div&gt;Card data&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="710" y="74.5" width="80" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
