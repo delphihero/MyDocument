@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T07:17:36.113Z" agent="5.0 (Windows)" etag="Gs0Tl5JMbCtAHXzr7ZIN" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-24T07:17:43.042Z" agent="5.0 (Windows)" etag="QUvYzNnumgACT0x_L8kh" version="20.5.3" type="github" pages="4">
   <diagram id="wc-A6Sfrnum5uIk4BeKL" name="overview">
     <mxGraphModel dx="1278" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
           <mxGeometry x="379" y="-220" width="70" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="D0_54TaflaiceTyQMr8B-3" value="Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-630" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D0_54TaflaiceTyQMr8B-9" value="OK" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=none;" edge="1" parent="1" source="D0_54TaflaiceTyQMr8B-4" target="D0_54TaflaiceTyQMr8B-6">
           <mxGeometry relative="1" as="geometry" />
