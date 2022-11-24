@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T07:19:36.591Z" agent="5.0 (Windows)" etag="UAUhxNc8_leCzYugyXNz" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-24T07:20:16.730Z" agent="5.0 (Windows)" etag="rLOuojRMZf2uxNdOvvFn" version="20.5.3" type="github" pages="5">
   <diagram id="wc-A6Sfrnum5uIk4BeKL" name="overview">
     <mxGraphModel dx="1278" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           <mxGeometry x="354" y="-602.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D0_54TaflaiceTyQMr8B-1" value="&lt;div&gt;Card data&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="379" y="-220" width="70" height="65.5" as="geometry" />
+          <mxGeometry x="368.5" y="-210" width="91" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D0_54TaflaiceTyQMr8B-3" value="Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_bank-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="680" y="-630" width="80" height="80" as="geometry" />
