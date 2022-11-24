@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T07:29:35.899Z" agent="5.0 (Windows)" etag="iN6NPnWxmNQBJgPEdhFo" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-24T07:31:17.641Z" agent="5.0 (Windows)" etag="nNwREd9sUiXlGvUATjMh" version="20.5.3" type="github" pages="5">
   <diagram id="wc-A6Sfrnum5uIk4BeKL" name="overview">
     <mxGraphModel dx="1278" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,6 +309,15 @@
         </mxCell>
         <mxCell id="rTtegYGEJRHZhbMDAR39-7" value="Packing station" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;strokeColor=#3333FF;fillColor=#99FF99;" vertex="1" parent="rTtegYGEJRHZhbMDAR39-5">
           <mxGeometry x="70" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QNczpedGhYm2o3M1WUhA-1" value="&lt;div&gt;Card data&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="614.3" y="-80" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QNczpedGhYm2o3M1WUhA-2" value="update packing state" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="QNczpedGhYm2o3M1WUhA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="105" as="sourcePoint" />
+            <mxPoint x="440" y="35" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
