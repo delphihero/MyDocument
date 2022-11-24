@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T07:20:16.730Z" agent="5.0 (Windows)" etag="rLOuojRMZf2uxNdOvvFn" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-24T07:29:35.899Z" agent="5.0 (Windows)" etag="iN6NPnWxmNQBJgPEdhFo" version="20.5.3" type="github" pages="5">
   <diagram id="wc-A6Sfrnum5uIk4BeKL" name="overview">
     <mxGraphModel dx="1278" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,10 +276,40 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hQ3EmRhSjtscSd83UUt6" name="packing card">
-    <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rTtegYGEJRHZhbMDAR39-1" value="Packing room" style="swimlane;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-110" width="270" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jtKM5T1jR4NhgxpxkyRV-1" value="" style="group" vertex="1" connectable="0" parent="rTtegYGEJRHZhbMDAR39-1">
+          <mxGeometry x="55" y="43" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R80lBZhxIl8xlPRuasZq-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-and-education-1/512/2_box_surprize_packing_bundle-128.png;fillColor=#FFE6CC;" vertex="1" parent="jtKM5T1jR4NhgxpxkyRV-1">
+          <mxGeometry y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGAFA2j-wlB3XjCvTQ8l-5" value="Packing station" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;strokeColor=#3333FF;fillColor=#99FF99;" vertex="1" parent="jtKM5T1jR4NhgxpxkyRV-1">
+          <mxGeometry x="70" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rTtegYGEJRHZhbMDAR39-2" value="" style="group" vertex="1" connectable="0" parent="rTtegYGEJRHZhbMDAR39-1">
+          <mxGeometry x="55" y="193" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rTtegYGEJRHZhbMDAR39-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-and-education-1/512/2_box_surprize_packing_bundle-128.png;fillColor=#FFE6CC;" vertex="1" parent="rTtegYGEJRHZhbMDAR39-2">
+          <mxGeometry y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTtegYGEJRHZhbMDAR39-4" value="Packing station" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;strokeColor=#3333FF;fillColor=#99FF99;" vertex="1" parent="rTtegYGEJRHZhbMDAR39-2">
+          <mxGeometry x="70" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rTtegYGEJRHZhbMDAR39-5" value="" style="group" vertex="1" connectable="0" parent="rTtegYGEJRHZhbMDAR39-1">
+          <mxGeometry x="55" y="333" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rTtegYGEJRHZhbMDAR39-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-and-education-1/512/2_box_surprize_packing_bundle-128.png;fillColor=#FFE6CC;" vertex="1" parent="rTtegYGEJRHZhbMDAR39-5">
+          <mxGeometry y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTtegYGEJRHZhbMDAR39-7" value="Packing station" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;strokeColor=#3333FF;fillColor=#99FF99;" vertex="1" parent="rTtegYGEJRHZhbMDAR39-5">
+          <mxGeometry x="70" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
