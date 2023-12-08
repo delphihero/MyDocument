@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T06:40:05.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="icoaaE9ECzEQPx9RS793" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-08T06:51:03.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="wr27Hq_P5O3KdXnSE6v3" version="22.1.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1290" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="21XThDF_EwefMqvhnax9-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21XThDF_EwefMqvhnax9-3" target="21XThDF_EwefMqvhnax9-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="21XThDF_EwefMqvhnax9-41" value="&lt;div&gt;store all the injected/generated&amp;nbsp;&lt;/div&gt;&lt;div&gt;keys into DB (DES,RSA)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#FF9999;" vertex="1" connectable="0" parent="21XThDF_EwefMqvhnax9-40">
+        <mxCell id="21XThDF_EwefMqvhnax9-41" value="&lt;div&gt;&lt;i&gt;1.Inject/generate keys(DES,RSA)&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;2.Sync keys to SmartCPS Core &lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#FF9999;strokeColor=#000099;" vertex="1" connectable="0" parent="21XThDF_EwefMqvhnax9-40">
           <mxGeometry x="-0.6386" y="1" relative="1" as="geometry">
             <mxPoint x="-39" y="-11" as="offset" />
           </mxGeometry>
@@ -154,7 +154,7 @@
             <mxPoint x="200" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21XThDF_EwefMqvhnax9-39" value="&lt;div&gt;call webservice&amp;nbsp;&lt;/div&gt;&lt;div&gt;to do the key encryption&amp;nbsp;&lt;/div&gt;&lt;div&gt;with .CRD files&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21XThDF_EwefMqvhnax9-30">
+        <mxCell id="21XThDF_EwefMqvhnax9-39" value="&lt;div&gt;&lt;i&gt;call webservice&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;to do the key encryption&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;with .CRD files&lt;/i&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21XThDF_EwefMqvhnax9-30">
           <mxGeometry x="0.049" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
