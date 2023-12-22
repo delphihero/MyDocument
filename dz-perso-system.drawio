@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T09:32:42.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="670MBj7UpD1R0jTprUHh" version="22.1.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-22T09:34:08.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Whx4MZls5x8kBuBBOGCG" version="22.1.11" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="CardProDiagram">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,9 +228,11 @@
         <mxCell id="moSHsTtPuHIbDwc8t7Ak-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fVDOFBkQa3pWeiXS-2Ra-5" target="fVDOFBkQa3pWeiXS-2Ra-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVDOFBkQa3pWeiXS-2Ra-5" value="&lt;div style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt;&quot;&gt;&lt;p style=&quot;background-color:#e8f2fe;margin:0;&quot;&gt;&lt;span style=&quot;color:#000000;background-color:#ceccf7;&quot;&gt;Get secure object from &lt;br&gt;&lt;/span&gt;&quot;&lt;b&gt;SmartCPS WebService&lt;/b&gt;&quot;&lt;/p&gt;&lt;p style=&quot;background-color:#e8f2fe;margin:0;&quot;&gt;&lt;u&gt;&lt;span style=&quot;color:#000000;background-color:#ceccf7;&quot;&gt;getSecureInfoFromServer()&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;&lt;div style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt;&quot;&gt;&lt;p style=&quot;background-color:#e8f2fe;margin:0;&quot;&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;secureObject&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;keyServiceManager&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;.getSecureObjectFromServer(&lt;/span&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;host&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;port&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#2a00ff;&quot;&gt;&quot;ADMINNETPSINTERN&quot;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="280" width="550" height="100" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt;&quot;&gt;&lt;p style=&quot;background-color:#e8f2fe;margin:0;&quot;&gt;&lt;span style=&quot;color:#000000;background-color:#ceccf7;&quot;&gt;Get secure object from &lt;br&gt;&lt;/span&gt;&quot;&lt;b&gt;SmartCPS WebService&lt;/b&gt;&quot;&lt;/p&gt;&lt;p style=&quot;background-color:#e8f2fe;margin:0;&quot;&gt;&lt;u&gt;&lt;span style=&quot;color:#000000;background-color:#ceccf7;&quot;&gt;getSecureInfoFromServer()&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;/u&gt;&lt;/p&gt;&lt;div style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt;&quot;&gt;&lt;p style=&quot;background-color:#e8f2fe;margin:0;&quot;&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;secureObject&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;keyServiceManager&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;.getSecureObjectFromServer(&lt;/span&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;host&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#0000c0;&quot;&gt;port&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#2a00ff;&quot;&gt;&quot;ADMINNETPSINTERN&quot;&lt;/span&gt;&lt;span style=&quot;color:#000000;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="data:page/id,7zHdJFtPQRgk1eJ6uRzq" id="fVDOFBkQa3pWeiXS-2Ra-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="65" y="280" width="550" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="moSHsTtPuHIbDwc8t7Ak-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fVDOFBkQa3pWeiXS-2Ra-6" target="fVDOFBkQa3pWeiXS-2Ra-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -243,7 +245,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4xOLkXUqjxxSUK7zsHIS" name="LinkSourceCode">
+  <diagram id="4xOLkXUqjxxSUK7zsHIS" name="generateSessionKey()">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
