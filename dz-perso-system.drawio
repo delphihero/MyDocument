@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T06:00:59.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="awDjUmWSu7jBpBnuW_yD" version="22.1.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-23T06:02:59.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="apdX9k7LSGOITvNQJig1" version="22.1.11" type="github" pages="8">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,8 +262,8 @@
             <mxGeometry x="730" y="90" width="570" height="160" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nSQBAWT-eAkxy2wq-EHu-1" value="Waiting for card perso request from external" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="938.5" y="310" width="153" height="130" as="geometry" />
+        <mxCell id="nSQBAWT-eAkxy2wq-EHu-1" value="&lt;div&gt;Waiting for card perso request&amp;nbsp;&lt;/div&gt;&lt;div&gt;from external&lt;/div&gt;&lt;div&gt;(Via JAVA RMI service)&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="914.25" y="300" width="201.5" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
