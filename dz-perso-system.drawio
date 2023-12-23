@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T04:55:48.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="rgunIcEpEYACTu_CM364" version="22.1.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-23T04:56:02.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Z-G4ITL4h4JFqAOjLiHB" version="22.1.11" type="github" pages="8">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,7 +407,11 @@
           <mxGeometry x="-700" y="-3820" width="720" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="qyYGaKNdoi4cKq25o9WY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8pUuWyBpZOjBpjadgwfz-1" target="qyYGaKNdoi4cKq25o9WY-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-970" y="-2475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qyYGaKNdoi4cKq25o9WY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8pUuWyBpZOjBpjadgwfz-1" target="qyYGaKNdoi4cKq25o9WY-3">
           <mxGeometry relative="1" as="geometry" />
