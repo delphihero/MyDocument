@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T07:30:24.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Bb_UoSRMIKItGgsrk8nF" version="22.1.11" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:32:04.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Yx7UGqNmiutzTXbTQC6K" version="22.1.11" type="github" pages="9">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,6 +256,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="195" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bQDSMO_f80DRBtaT-4Ds-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-jar-format-type-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="355" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQDSMO_f80DRBtaT-4Ds-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=10;strokeColor=none;fillColor=#10739E;fontSize=10;align=center;fillOpacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bQDSMO_f80DRBtaT-4Ds-3" value="65%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.65;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="bQDSMO_f80DRBtaT-4Ds-2">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bQDSMO_f80DRBtaT-4Ds-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/files-96/32/Dll-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="354" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
