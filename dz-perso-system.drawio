@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T04:32:25.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Upfmougp63hI-xOzQliH" version="22.1.11" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-25T04:38:10.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="6A-_3bfk-a8lRhWlm-fL" version="22.1.11" type="github" pages="9">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,6 +210,15 @@
         </mxCell>
         <mxCell id="Wz7ygmL63-3RbcP5kRZk-0" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Service bureau&lt;/font&gt;" style="text;strokeColor=#FFE6CC;align=center;fillColor=#57FF24;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-430" y="240" width="174" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yIW4hAkD20PZWMh5p6hH-0" value="&lt;div&gt;Dedicated bridge Application (.DLL/.Jar) &lt;br&gt;&lt;/div&gt;&lt;div&gt;for each machines to allow comunication withCardPro App&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-350" y="360" width="173" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yIW4hAkD20PZWMh5p6hH-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yIW4hAkD20PZWMh5p6hH-0" target="4Xzrb0yfbBRYlqgE_jvr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="460" as="sourcePoint" />
+            <mxPoint x="-10" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
