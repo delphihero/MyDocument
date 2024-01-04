@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:46:17.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="tdVMS4nT1nW0bbG1XTGh" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-04T10:47:32.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8TKU4bm51h36Myx8vkw1" version="22.1.12" type="github" pages="2">
   <diagram name="Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ODoHKzg6_8GVGlq-OIxx" name="Upload input file">
-    <mxGraphModel dx="1290" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,6 +288,9 @@
             <mxPoint x="854" y="174" as="sourcePoint" />
             <mxPoint x="854" y="84" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B7a7TryTt07FR0JE7hxm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.465;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kkcjsC11moHD74xY9wcH-6" target="B7a7TryTt07FR0JE7hxm-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kkcjsC11moHD74xY9wcH-6" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;lqoOIG_mB1ESTEyzG3Um&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Click &lt;b&gt;&quot;Start&quot;&lt;/b&gt; to process the file and show progress dialog&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;(Fire &lt;b&gt;&quot;remplirDetenteur&quot;&lt;/b&gt; method)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="236" width="170" height="124" as="geometry" />
@@ -351,6 +354,17 @@
             <mxPoint x="1980" y="60" as="sourcePoint" />
             <mxPoint x="2030" y="10" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B7a7TryTt07FR0JE7hxm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="B7a7TryTt07FR0JE7hxm-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B7a7TryTt07FR0JE7hxm-48" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Begin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="233" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B7a7TryTt07FR0JE7hxm-50" value="&lt;font face=&quot;Garamond&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
