@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T09:56:34.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="9oqVUBibKMzWHwaJ9UJ9" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-04T09:56:42.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="lNZS7MwzcRCbIrczaGhI" version="22.1.12" type="github" pages="2">
   <diagram name="Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,8 +285,8 @@
         </mxCell>
         <mxCell id="B7a7TryTt07FR0JE7hxm-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="854" y="176" as="sourcePoint" />
-            <mxPoint x="854" y="86" as="targetPoint" />
+            <mxPoint x="854" y="174" as="sourcePoint" />
+            <mxPoint x="854" y="84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kkcjsC11moHD74xY9wcH-6" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;lqoOIG_mB1ESTEyzG3Um&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Click &lt;b&gt;&quot;Start&quot;&lt;/b&gt; to process the file and show progress dialog&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;(Fire &lt;b&gt;&quot;remplirDetenteur&quot;&lt;/b&gt; method)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
