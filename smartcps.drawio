@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T04:57:54.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="DS-jkAZbbq5XTlCxvyKj" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T04:58:54.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ebGZcp5HHQhTcanr2e1J" version="22.1.12" type="github" pages="2">
   <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="xeMIyk6oKUi8xe8yKl_S-37" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;Profile&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699182-icon-102-document-file-xml-128.png" parent="1" vertex="1">
           <mxGeometry x="430" y="20" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xeMIyk6oKUi8xe8yKl_S-39" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Garamond&quot;&gt;Profile&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;(from XML)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="xeMIyk6oKUi8xe8yKl_S-39" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Garamond&quot;&gt;Profile&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;(card program)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-160" y="170" width="150" height="50" as="geometry">
             <mxRectangle x="700" y="260" width="160" height="120" as="alternateBounds" />
           </mxGeometry>
