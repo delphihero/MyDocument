@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T04:00:27.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="vcJkP3fH7Av_k3B-yAOI" version="22.1.12" type="github" pages="2">
-  <diagram name="Core" id="-kFRJJxX4Sv2SK23weq9">
+<mxfile host="app.diagrams.net" modified="2024-01-05T04:02:19.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ZIvLM4rvG6msAoLa0HO4" version="22.1.12" type="github" pages="2">
+  <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -269,7 +269,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ODoHKzg6_8GVGlq-OIxx" name="Upload input file">
+  <diagram id="ODoHKzg6_8GVGlq-OIxx" name="@Upload input file">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
