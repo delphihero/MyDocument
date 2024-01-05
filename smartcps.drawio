@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T09:06:27.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="uhOND-9Lajrm9ZjphOAw" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:06:36.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="M8ireTjfCkcdrxCGutuc" version="22.1.12" type="github" pages="2">
   <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,12 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeMIyk6oKUi8xe8yKl_S-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeMIyk6oKUi8xe8yKl_S-22" target="xeMIyk6oKUi8xe8yKl_S-75" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="405" />
-              <mxPoint x="590" y="285" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeMIyk6oKUi8xe8yKl_S-79" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Store batch file&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xeMIyk6oKUi8xe8yKl_S-78" vertex="1" connectable="0">
           <mxGeometry x="-0.1519" y="7" relative="1" as="geometry">
