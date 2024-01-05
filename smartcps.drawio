@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T08:30:42.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="9SQik5LADA0TffPMwHTY" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T08:35:10.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="pln4QqdlupTZjnAq9wP0" version="22.1.12" type="github" pages="2">
   <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,10 @@
         <mxCell id="z4TfxQlVu5bO3CzROaA9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeMIyk6oKUi8xe8yKl_S-73" target="z4TfxQlVu5bO3CzROaA9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XMnj4C5rhZiLzRJRQbUA-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Case of reject&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="xeMIyk6oKUi8xe8yKl_S-73" target="xeMIyk6oKUi8xe8yKl_S-83">
+        <mxCell id="XMnj4C5rhZiLzRJRQbUA-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Store rejected data&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="xeMIyk6oKUi8xe8yKl_S-73" target="xeMIyk6oKUi8xe8yKl_S-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMnj4C5rhZiLzRJRQbUA-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;Store recap data&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="xeMIyk6oKUi8xe8yKl_S-73" target="xeMIyk6oKUi8xe8yKl_S-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeMIyk6oKUi8xe8yKl_S-73" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Garamond&quot;&gt;Generate perso file&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Garamond&quot;&gt;.CRD&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
