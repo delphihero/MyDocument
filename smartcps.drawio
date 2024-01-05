@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T04:28:34.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="SuOAnf_y6hJcOYUmFXWO" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T04:29:25.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="TG-w4ERVxTKR18xNxRda" version="22.1.12" type="github" pages="2">
   <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
             <mxPoint x="520" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeMIyk6oKUi8xe8yKl_S-34" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;Get inputfile mapping&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xeMIyk6oKUi8xe8yKl_S-31" vertex="1" connectable="0">
+        <mxCell id="xeMIyk6oKUi8xe8yKl_S-34" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;Get inputfile format&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xeMIyk6oKUi8xe8yKl_S-31" vertex="1" connectable="0">
           <mxGeometry x="-0.3938" y="13" relative="1" as="geometry">
             <mxPoint x="-28" y="-54" as="offset" />
           </mxGeometry>
