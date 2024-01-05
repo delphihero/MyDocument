@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T09:46:53.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="XlfGlCiGo-P0IcxalJLL" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T09:51:50.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="XMKUGqaD03bFuoMJXFRt" version="22.1.12" type="github" pages="2">
   <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
         <mxCell id="XMnj4C5rhZiLzRJRQbUA-11" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="XMnj4C5rhZiLzRJRQbUA-10">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XMnj4C5rhZiLzRJRQbUA-12" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;Optional: if define in inputfile&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="XMnj4C5rhZiLzRJRQbUA-10" target="xeMIyk6oKUi8xe8yKl_S-80">
+        <mxCell id="XMnj4C5rhZiLzRJRQbUA-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;Optional:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Garamond&quot;&gt;if define agence code in inputfile&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="XMnj4C5rhZiLzRJRQbUA-10" target="xeMIyk6oKUi8xe8yKl_S-80">
           <mxGeometry x="-0.4" y="-5" width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1000" y="590" as="sourcePoint" />
             <mxPoint x="1094" y="520" as="targetPoint" />
