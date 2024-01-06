@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T05:20:47.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="hwGk6zRG_asWkI99kOaP" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-06T05:26:33.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8_y7ovZK-SpPw51Z_r_Y" version="22.1.12" type="github" pages="2">
   <diagram name="SmartCPS Core" id="-kFRJJxX4Sv2SK23weq9">
     <mxGraphModel dx="2117" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,6 +347,27 @@
             <mxPoint x="-220" y="190" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-130" y="-130" width="162" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;shadow=0;strokeColor=#FFFFFF;" vertex="1" parent="d0AwKlXw1BFHL1hZaoGI-21">
+          <mxGeometry y="5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;shadow=0;strokeColor=#FFFFFF;" vertex="1" parent="d0AwKlXw1BFHL1hZaoGI-21">
+          <mxGeometry y="45" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;shadow=0;strokeColor=#FFFFFF;" vertex="1" parent="d0AwKlXw1BFHL1hZaoGI-21">
+          <mxGeometry y="86" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;outbound data&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d0AwKlXw1BFHL1hZaoGI-21">
+          <mxGeometry x="42" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-18" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;inbound data&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d0AwKlXw1BFHL1hZaoGI-21">
+          <mxGeometry x="42" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0AwKlXw1BFHL1hZaoGI-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot;&gt;table relation&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d0AwKlXw1BFHL1hZaoGI-21">
+          <mxGeometry x="42" y="81" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
