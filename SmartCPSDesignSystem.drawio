@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T04:54:02.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="I5OtUeb3PTWZ1naEc3VW" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:57:46.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="JT6zxbQuyW36Ed_HZC_E" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-38" value="Bank" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="730" y="424" width="100" height="50" as="geometry" />
+          <mxGeometry x="730" y="412" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-46">
           <mxGeometry relative="1" as="geometry">
@@ -131,13 +131,20 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-55" value="Input file template" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-53">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file template&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-55" target="7GPe_TrnNlmMUH8Qy_VO-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349" y="200" as="sourcePoint" />
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file template&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.14;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-54" target="7GPe_TrnNlmMUH8Qy_VO-3">
+          <mxGeometry x="0.2169" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="144" y="350" />
-              <mxPoint x="350" y="350" />
+              <mxPoint x="100" y="189" />
+              <mxPoint x="100" y="360" />
+              <mxPoint x="350" y="360" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-60" target="7GPe_TrnNlmMUH8Qy_VO-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-60" value="Develop card program (CP)" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
@@ -149,6 +156,34 @@
               <mxPoint x="777" y="262" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-66" value="perso script (XML)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7GPe_TrnNlmMUH8Qy_VO-61">
+          <mxGeometry x="0.3787" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-63" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-62">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-64" value="Card program" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-62">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-68" value="card program" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.331;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-64" target="7GPe_TrnNlmMUH8Qy_VO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="320" />
+              <mxPoint x="367" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-69" target="7GPe_TrnNlmMUH8Qy_VO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-69" value="DZ Technical" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="727" y="524" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
