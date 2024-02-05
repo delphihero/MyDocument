@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T06:20:28.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8eaaepYT4p5QO6bN4oem" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:34:09.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="wxfiSzbH2MuXCh-Cq4Ex" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-3" target="7GPe_TrnNlmMUH8Qy_VO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Conduct data preparation" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Execute the data conversion process" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="324" y="434" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-6" value="&lt;div&gt;1.emboss data (PAN, Holder name, valid date, expire date etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.card carrier data (thai name, address etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.card holder additional data (id number, barcode, account no etc.)&lt;/div&gt;&lt;div&gt;4.graphical data (image, qrcode etc.)&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -110,13 +110,13 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-55" value="Input file template" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-53">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file template&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.14;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-54">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file template&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-55">
           <mxGeometry x="0.2169" relative="1" as="geometry">
             <mxPoint x="300" y="310" as="sourcePoint" />
             <mxPoint x="360" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="98" y="360" />
-              <mxPoint x="361" y="360" />
+              <mxPoint x="174" y="360" />
+              <mxPoint x="360" y="360" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -142,21 +142,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="40" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-63" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-62">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-64" value="Card program" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-62">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-68" value="card program" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-64" target="7GPe_TrnNlmMUH8Qy_VO-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="320" />
-              <mxPoint x="389" y="320" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-69" target="7GPe_TrnNlmMUH8Qy_VO-3">
           <mxGeometry relative="1" as="geometry" />
@@ -165,7 +157,7 @@
           <mxGeometry x="727" y="524" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-78" value="Conduct data preparation" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="324" y="560" width="130" height="50" as="geometry" />
+          <mxGeometry x="324" y="585" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-18" value="" style="group;fillColor=#00CC00;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="82" y="495" width="100" height="30" as="geometry" />
@@ -200,6 +192,14 @@
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-80" value="output" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="432" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-82" value="Card program" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-63" target="7GPe_TrnNlmMUH8Qy_VO-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="60" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
