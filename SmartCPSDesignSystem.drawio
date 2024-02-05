@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T04:53:22.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="2y96wOX0JO3mZ5c57pLj" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:54:02.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="I5OtUeb3PTWZ1naEc3VW" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Data prepare" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Conduct data preparation" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="324" y="434" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-6" value="&lt;div&gt;1.emboss data (PAN, Holder name, valid date, expire date etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.card carrier data (thai name, address etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.card holder additional data (id number, barcode, account no etc.)&lt;/div&gt;&lt;div&gt;4.graphical data (image, qrcode etc.)&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
