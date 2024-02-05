@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T04:46:20.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="ATgiVAJw8DIZX_HLWrUB" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:48:32.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="MYK6420kWlPC1pheZ7ML" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Data prepare" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="325" y="340" width="130" height="50" as="geometry" />
+          <mxGeometry x="324" y="340" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-6" value="&lt;div&gt;1.emboss data (PAN, Holder name, valid date, expire date etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.card carrier data (thai name, address etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.card holder additional data (id number, barcode, account no etc.)&lt;/div&gt;&lt;div&gt;4.graphical data (image, qrcode etc.)&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="700" y="60" width="210" height="110" as="geometry" />
@@ -119,6 +119,11 @@
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-55" value="Input file structure" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-53">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file structure&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-55" target="7GPe_TrnNlmMUH8Qy_VO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="200" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
