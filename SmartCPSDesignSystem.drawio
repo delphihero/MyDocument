@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T07:58:37.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Be6y07_vvcIKyUoeg-tJ" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:05:12.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="2y02WnP6cBjgfzgu7N2G" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,7 +274,8 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.665;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-90" target="7GPe_TrnNlmMUH8Qy_VO-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="1055" />
+              <mxPoint x="400" y="970" />
+              <mxPoint x="400" y="1075" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -292,7 +293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-96" value="Personalized cards" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1030" width="100" height="50" as="geometry" />
+          <mxGeometry x="520" y="1050" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-98" target="7GPe_TrnNlmMUH8Qy_VO-22">
           <mxGeometry relative="1" as="geometry" />
@@ -301,7 +302,7 @@
           <mxGeometry x="339" y="-110" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-100" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="516.5" y="1140" width="107" height="40" as="geometry" />
+          <mxGeometry x="516.5" y="1141" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-103" target="7GPe_TrnNlmMUH8Qy_VO-90">
           <mxGeometry relative="1" as="geometry">
@@ -323,7 +324,7 @@
           <mxGeometry x="-125" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-107" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="680" width="100" height="30" as="geometry" />
+          <mxGeometry x="60" y="755" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-108" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-107">
           <mxGeometry width="100" height="30" as="geometry" />
@@ -337,10 +338,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-115" value="Generate report/return files" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1150" width="130" height="50" as="geometry" />
+          <mxGeometry x="-80" y="1151" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-116" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="1040" width="100" height="30" as="geometry" />
+          <mxGeometry x="70" y="1041" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-117" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-116">
           <mxGeometry width="100" height="30" as="geometry" />
@@ -358,12 +359,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-123" value="&lt;div&gt;1.data confirmation report&lt;/div&gt;&lt;div&gt;2.packing report&lt;/div&gt;&lt;div&gt;3.perso feedback file&lt;/div&gt;&lt;div&gt;etc.&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="189" y="1120" width="171" height="80" as="geometry" />
+          <mxGeometry x="189" y="1121" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-124" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-123" target="7GPe_TrnNlmMUH8Qy_VO-115">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-114" y="1263" as="targetPoint" />
+            <mxPoint x="-114" y="1264" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-133" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="997" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-134" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-133">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-135" value="IPK Cert" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-133">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-137" target="7GPe_TrnNlmMUH8Qy_VO-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-137" value="&lt;div&gt;Import&amp;nbsp;&lt;/div&gt;&lt;div&gt;IPK Certificate&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="727" y="987" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-139" value="&lt;div&gt;certificate&amp;nbsp;&lt;/div&gt;&lt;div&gt;from Bank&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-138" target="7GPe_TrnNlmMUH8Qy_VO-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-138" value="DZ Technical" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="742" y="735" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-141" value="&lt;div&gt;Issuer&amp;nbsp;&lt;/div&gt;&lt;div&gt;certificate&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-134" target="7GPe_TrnNlmMUH8Qy_VO-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
