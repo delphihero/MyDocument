@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T07:09:20.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="lulVeJ5LS6-pLHj8Kf99" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T07:36:07.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="k2nbE3oFTvR2Y07qVhoK" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
-    <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +205,7 @@
           <mxGeometry x="146" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-80" value="output" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="432" width="60" height="30" as="geometry" />
+          <mxGeometry x="264" y="432" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-82" value="&lt;div&gt;Card program&lt;/div&gt;&lt;div&gt;profile&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-63" target="7GPe_TrnNlmMUH8Qy_VO-78">
           <mxGeometry relative="1" as="geometry">
@@ -266,6 +266,39 @@
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-100" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="339" y="1150" width="107" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-103" target="7GPe_TrnNlmMUH8Qy_VO-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-55" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-103" target="7GPe_TrnNlmMUH8Qy_VO-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-113" value="&lt;div&gt;IMKs,KMC &amp;amp; ICC RSA&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7GPe_TrnNlmMUH8Qy_VO-112">
+          <mxGeometry x="0.136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-103" value="&lt;div&gt;Inject card keys&lt;/div&gt;&lt;div&gt;(DES,RSA)&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="820" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-104" target="7GPe_TrnNlmMUH8Qy_VO-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-104" value="Bank" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="612" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-108" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-107">
+          <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-109" value="Card Keys" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-107">
+          <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
