@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T04:48:32.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="MYK6420kWlPC1pheZ7ML" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:50:12.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="0rbrtL93TX9qYZSnss7F" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
             <mxPoint x="190" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-46" value="Create input file format" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-46" value="Develop a template for the input file format" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-53" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -117,10 +117,10 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-54" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-53">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-55" value="Input file structure" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-53">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-55" value="Input file template" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-53">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file structure&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-55" target="7GPe_TrnNlmMUH8Qy_VO-3">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-58" value="&lt;div&gt;input&amp;nbsp;&lt;/div&gt;&lt;div&gt;file template&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-55" target="7GPe_TrnNlmMUH8Qy_VO-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349" y="200" as="sourcePoint" />
           </mxGeometry>
