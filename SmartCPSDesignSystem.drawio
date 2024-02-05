@@ -1,6 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T03:44:27.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="23.1.1" etag="l2mXCpx5NnYRlIa_btkb" type="github">
-  <diagram name="หน้า-1" id="p537BfbYChEt8frvit5T">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:10:59.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="BfPEFRMqvbsrT1a91-cf" version="23.1.1" type="github" pages="3">
+  <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
+    <mxGraphModel dx="2117" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-1" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="374" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Data prepare" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="374" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-4" target="7GPe_TrnNlmMUH8Qy_VO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-4" value="&lt;div&gt;customer&amp;nbsp;&lt;/div&gt;&lt;div&gt;input data&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-6" value="&lt;div&gt;1.emboss data&lt;/div&gt;&lt;div&gt;2.card carrier data&lt;/div&gt;&lt;div&gt;3.card holder additional data (id number, barcode, account no etc.&lt;/div&gt;&lt;div&gt;4.graphical data (image, qrcode)&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="20" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-8" value="" style="edgeStyle=none;endArrow=none;exitX=0.667;exitY=1;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="7GPe_TrnNlmMUH8Qy_VO-6" parent="1" target="7GPe_TrnNlmMUH8Qy_VO-4">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9T_5J_mIrMXlhwAe_HN3" name="delegate model">
+    <mxGraphModel dx="1290" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ulSLRUHP-Ur9G5Vhskx1" name="instant model">
+    <mxGraphModel dx="1290" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
