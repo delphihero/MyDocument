@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T07:53:12.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="DFBRJuRi7G7OE_OfNWjQ" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T07:56:41.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="KsVADI-tq_kYUI0bSi7D" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,11 +201,27 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-14" value="&lt;div&gt;Card&lt;/div&gt;&lt;div&gt;&amp;nbsp;data&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-157" y="445" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-15" target="7GPe_TrnNlmMUH8Qy_VO-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="510" />
+              <mxPoint x="-200" y="1175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-15" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];container=0;" vertex="1" parent="1">
           <mxGeometry x="-186" y="495" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-16" value="Carrier data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-157" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-19" target="7GPe_TrnNlmMUH8Qy_VO-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="410" />
+              <mxPoint x="-240" y="1175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-19" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];container=0;" vertex="1" parent="1">
           <mxGeometry x="-186" y="395" width="100" height="30" as="geometry" />
@@ -341,8 +357,8 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-117" target="7GPe_TrnNlmMUH8Qy_VO-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-123" value="&lt;div&gt;1.emboss data (PAN, Holder name, valid date, expire date etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.card carrier data (thai name, address etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.card holder additional data (id number, barcode, account no etc.)&lt;/div&gt;&lt;div&gt;4.graphical data (image, qrcode etc.)&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="189" y="1120" width="210" height="110" as="geometry" />
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-123" value="&lt;div&gt;1.data confirmation report&lt;/div&gt;&lt;div&gt;2.packing report&lt;/div&gt;&lt;div&gt;3.perso feedback file&lt;/div&gt;&lt;div&gt;etc.&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="189" y="1120" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-124" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-123" target="7GPe_TrnNlmMUH8Qy_VO-115">
           <mxGeometry x="1" relative="1" as="geometry">
