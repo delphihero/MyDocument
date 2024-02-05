@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T04:50:51.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8O7eYNgBAklBROvandXS" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:52:08.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="L72SOVUqBaasw6gN1GXJ" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="1290" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-3" value="Data prepare" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="324" y="340" width="130" height="50" as="geometry" />
+          <mxGeometry x="324" y="434" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-6" value="&lt;div&gt;1.emboss data (PAN, Holder name, valid date, expire date etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.card carrier data (thai name, address etc.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.card holder additional data (id number, barcode, account no etc.)&lt;/div&gt;&lt;div&gt;4.graphical data (image, qrcode etc.)&lt;br&gt;&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="700" y="60" width="210" height="110" as="geometry" />
+          <mxGeometry x="730" y="250" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-8" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;" edge="1" source="7GPe_TrnNlmMUH8Qy_VO-6" parent="1" target="7GPe_TrnNlmMUH8Qy_VO-10">
           <mxGeometry x="1" relative="1" as="geometry">
@@ -16,13 +16,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-10" target="7GPe_TrnNlmMUH8Qy_VO-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="349" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-10" value="&lt;div&gt;input files&lt;/div&gt;&lt;div&gt;(SFTP)&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fillColor=#FFFF66;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="100" height="70" as="geometry" />
+          <mxGeometry x="550" y="310" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="84" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="84" y="444" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-13" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-17">
           <mxGeometry width="100" height="30" as="geometry" />
@@ -31,7 +33,7 @@
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-18" value="" style="group;fillColor=#00CC00;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="84" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="84" y="494" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-15" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-18">
           <mxGeometry width="100" height="30" as="geometry" />
@@ -40,7 +42,7 @@
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="84" y="300" width="100" height="30" as="geometry" />
+          <mxGeometry x="84" y="394" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-19" value="&amp;nbsp; D" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-21">
           <mxGeometry width="100" height="30" as="geometry" />
@@ -63,18 +65,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-26" value="product details" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-23" target="7GPe_TrnNlmMUH8Qy_VO-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.2867" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-23" target="7GPe_TrnNlmMUH8Qy_VO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-59" value="&lt;div&gt;input file&amp;nbsp;&lt;/div&gt;&lt;div&gt;structure details&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7GPe_TrnNlmMUH8Qy_VO-49">
           <mxGeometry x="-0.3056" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-153" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-23" value="DZ Technical" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="580" y="-12.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="727" y="-10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-25" target="7GPe_TrnNlmMUH8Qy_VO-32">
           <mxGeometry relative="1" as="geometry">
@@ -102,11 +106,13 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-33" value="Card product" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-31">
           <mxGeometry x="60" y="-5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-39" value="transfer input files" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-38" target="7GPe_TrnNlmMUH8Qy_VO-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-39" value="transfer input files" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.814;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-38" target="7GPe_TrnNlmMUH8Qy_VO-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="384" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-38" value="Bank" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="740" y="330" width="100" height="50" as="geometry" />
+          <mxGeometry x="730" y="424" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-46">
           <mxGeometry relative="1" as="geometry">
