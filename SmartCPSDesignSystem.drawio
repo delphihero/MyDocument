@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T07:56:51.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-x21FWS_rYLwWwscTU3t" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-05T07:58:02.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="2o4vM3CyTMYbEPAotC5m" version="23.1.1" type="github" pages="3">
   <diagram name="centralize model" id="p537BfbYChEt8frvit5T">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,11 +348,11 @@
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-118" value="Operation Logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7GPe_TrnNlmMUH8Qy_VO-116">
           <mxGeometry x="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-120" target="7GPe_TrnNlmMUH8Qy_VO-115">
+        <mxCell id="7GPe_TrnNlmMUH8Qy_VO-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.308;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-120" target="7GPe_TrnNlmMUH8Qy_VO-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-120" value="&lt;div&gt;DZ&amp;nbsp;&lt;/div&gt;&lt;div&gt;Service bureau&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="960" width="100" height="50" as="geometry" />
+          <mxGeometry x="-90" y="960" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7GPe_TrnNlmMUH8Qy_VO-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7GPe_TrnNlmMUH8Qy_VO-117" target="7GPe_TrnNlmMUH8Qy_VO-115">
           <mxGeometry relative="1" as="geometry" />
