@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T06:33:53.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="H8WOgjkfQeMlos52S706" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-16T06:36:04.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="ilfAsmUO4ru4xtQPtQSo" version="24.4.0" type="github" pages="12">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -858,10 +858,10 @@
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-20" value="&lt;div&gt;Syncronize keys&lt;/div&gt;&lt;div&gt;to SmartCPS Core&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uDY0e7PJ8caky6nFHXQg-19">
           <mxGeometry x="-0.0295" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="5" as="offset" />
+            <mxPoint x="-2" y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-6" value="&lt;div&gt;Key users&lt;/div&gt;&lt;div&gt;(Via KMS Destop App)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-6" value="&lt;div&gt;Key users&lt;/div&gt;&lt;div&gt;(Via KMS Destop App)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-65" y="101" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-11" value="Wrap under LMK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -872,13 +872,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-64" value="encrypted keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-18" target="uDY0e7PJ8caky6nFHXQg-63">
-          <mxGeometry x="-0.4682" relative="1" as="geometry">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-64" value="encrypted keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-18" target="uDY0e7PJ8caky6nFHXQg-63">
+          <mxGeometry x="-0.4673" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-18" value="&lt;div&gt;Sync&lt;br&gt;&lt;/div&gt;&lt;div&gt;DES, ZPK &amp;amp; RSA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="437" width="120" height="50" as="geometry" />
+          <mxGeometry x="-110" y="410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-48" value="&lt;div&gt;Save encrypted keys to DB&lt;/div&gt;&lt;div&gt;(LMK)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-11">
           <mxGeometry x="0.5316" y="18" relative="1" as="geometry">
@@ -887,8 +887,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-62" value="&lt;div&gt;Get encrypted key&amp;nbsp;&lt;/div&gt;&lt;div&gt;from DB&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-3" target="uDY0e7PJ8caky6nFHXQg-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-62" value="&lt;div&gt;Get encrypted key&amp;nbsp;&lt;/div&gt;&lt;div&gt;from DB&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#FF0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-179" target="uDY0e7PJ8caky6nFHXQg-18">
+          <mxGeometry x="-0.4788" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-79" value="Clear key" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-63" target="uDY0e7PJ8caky6nFHXQg-78">
           <mxGeometry relative="1" as="geometry" />
@@ -897,7 +899,7 @@
           <mxGeometry x="595" y="392" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-65" value="RSASynchronisation" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="580" y="670" width="150" height="30" as="geometry">
+          <mxGeometry x="580" y="680" width="150" height="30" as="geometry">
             <mxRectangle x="510" y="370" width="180" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -998,7 +1000,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-157" value="&lt;div&gt;TD users&lt;/div&gt;&lt;div&gt;(Via SmartCPS Core)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#00CC00;" vertex="1" parent="1">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-157" value="&lt;div&gt;TD users&lt;/div&gt;&lt;div&gt;(Via SmartCPS Core)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-37" y="940" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-158" value="&lt;div&gt;Sync&lt;br&gt;&lt;/div&gt;&lt;div&gt;DES, ZPK &amp;amp; RSA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
