@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T08:05:52.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="3cgR7_SzXHYJ-yf8VTEN" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-16T08:10:02.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="C1znFYkOPjCWJX8ONGz6" version="24.4.0" type="github" pages="12">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1476,7 +1476,7 @@
         <mxCell id="uDY0e7PJ8caky6nFHXQg-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.223;exitY=1;exitDx=0;exitDy=0;strokeColor=#00CC00;exitPerimeter=0;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-178" target="uDY0e7PJ8caky6nFHXQg-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-195" value="&lt;div&gt;&lt;b&gt;Get encrypted key&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(RSA Publickey)&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uDY0e7PJ8caky6nFHXQg-194">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-195" value="&lt;div&gt;&lt;b&gt;Get encrypted key&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(under RSA Publickey)&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uDY0e7PJ8caky6nFHXQg-194">
           <mxGeometry x="0.2376" y="-1" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
@@ -1678,7 +1678,7 @@
             <mxPoint x="540" y="940" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynqqYmb6urn90qtC6cKX-20" value="Encrypted keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-257" target="uDY0e7PJ8caky6nFHXQg-255">
+        <mxCell id="ynqqYmb6urn90qtC6cKX-20" value="Encrypted keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;strokeColor=#00CC00;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-257" target="uDY0e7PJ8caky6nFHXQg-255">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-257" value="&lt;div&gt;HSM 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(LMK = AC Key)&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Dedicated_HSM.svg;" vertex="1" parent="1">
@@ -1697,7 +1697,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynqqYmb6urn90qtC6cKX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#00CC00;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-260" target="uDY0e7PJ8caky6nFHXQg-162">
+        <mxCell id="ynqqYmb6urn90qtC6cKX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#00CC00;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-260" target="uDY0e7PJ8caky6nFHXQg-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ynqqYmb6urn90qtC6cKX-2" value="Clear RSA Private key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ynqqYmb6urn90qtC6cKX-1">
