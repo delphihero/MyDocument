@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T07:52:45.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="PbAUEIgcOTd-CjwTuDTn" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-16T07:53:04.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="DvcVvpO6Bg5BGg3Hvfvk" version="24.4.0" type="github" pages="12">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1454,12 +1454,6 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-186" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#0000FF;fillColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="107" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-187" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-37" y="213" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.223;exitY=1;exitDx=0;exitDy=0;strokeColor=#00CC00;exitPerimeter=0;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-178" target="uDY0e7PJ8caky6nFHXQg-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1467,9 +1461,6 @@
           <mxGeometry x="0.2376" y="-1" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-196" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#00CC00;fillColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="620" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-200" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="130" y="700" width="400" height="60" as="geometry" />
