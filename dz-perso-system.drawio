@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T06:31:20.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="gZH333NRvioOyQ2MUX3I" version="24.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-16T06:32:52.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="uVUGitDLZR8y6xZo2wo8" version="24.4.0" type="github" pages="12">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -823,7 +823,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-190" value="Clear keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#0000FF;" edge="1" parent="1" target="uDY0e7PJ8caky6nFHXQg-63">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-190" value="Clear keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#FF0000;" edge="1" parent="1" target="uDY0e7PJ8caky6nFHXQg-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="260" as="sourcePoint" />
           </mxGeometry>
@@ -853,7 +853,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-6" target="uDY0e7PJ8caky6nFHXQg-18">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#FF0000;fillColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-6" target="uDY0e7PJ8caky6nFHXQg-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-20" value="&lt;div&gt;Syncronize keys&lt;/div&gt;&lt;div&gt;to SmartCPS Core&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uDY0e7PJ8caky6nFHXQg-19">
@@ -872,7 +872,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-64" value="encrypted keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-18" target="uDY0e7PJ8caky6nFHXQg-63">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-64" value="encrypted keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-18" target="uDY0e7PJ8caky6nFHXQg-63">
           <mxGeometry x="-0.4682" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -887,10 +887,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-62" value="&lt;div&gt;Get encrypted key&amp;nbsp;&lt;/div&gt;&lt;div&gt;from DB&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-3" target="uDY0e7PJ8caky6nFHXQg-18">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-62" value="&lt;div&gt;Get encrypted key&amp;nbsp;&lt;/div&gt;&lt;div&gt;from DB&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-3" target="uDY0e7PJ8caky6nFHXQg-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-79" value="clear key" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-63" target="uDY0e7PJ8caky6nFHXQg-78">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-79" value="clear key" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-63" target="uDY0e7PJ8caky6nFHXQg-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uDY0e7PJ8caky6nFHXQg-63" value="&lt;div&gt;Unwrap keys&lt;/div&gt;&lt;div&gt;(LMK)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -956,7 +956,7 @@
         <mxCell id="uDY0e7PJ8caky6nFHXQg-78" value="&lt;div&gt;Encrypt keys&lt;/div&gt;&lt;div&gt;(RSA Publickey)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-96" value="&lt;div&gt;Save encrypted keys to DB&lt;/div&gt;&lt;div&gt;(RSA Publickey)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-78">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-96" value="&lt;div&gt;Save encrypted keys to DB&lt;/div&gt;&lt;div&gt;(RSA Publickey)&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-78">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="322" y="670" as="targetPoint" />
           </mxGeometry>
@@ -979,7 +979,7 @@
             <mxPoint x="390" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-63">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="715" y="442.5" as="sourcePoint" />
             <mxPoint x="899" y="290" as="targetPoint" />
@@ -1007,7 +1007,7 @@
         <mxCell id="uDY0e7PJ8caky6nFHXQg-162" value="&lt;div&gt;Decrypt keys&lt;/div&gt;&lt;div&gt;(RSA Publickey)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-65" target="uDY0e7PJ8caky6nFHXQg-78">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#FF0000;" edge="1" parent="1" source="uDY0e7PJ8caky6nFHXQg-65" target="uDY0e7PJ8caky6nFHXQg-78">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="115" y="618" as="sourcePoint" />
             <mxPoint x="474" y="322" as="targetPoint" />
@@ -1436,10 +1436,10 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-186" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-186" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#0000FF;fillColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="107" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uDY0e7PJ8caky6nFHXQg-187" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+        <mxCell id="uDY0e7PJ8caky6nFHXQg-187" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-37" y="213" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
