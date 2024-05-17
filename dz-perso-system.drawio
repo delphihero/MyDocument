@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T05:47:04.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="GQMeev358mj1Gg-TPdwq" version="24.4.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-17T05:47:21.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="gLLE8wt9KLCYvbkmmTEL" version="24.4.2" type="github" pages="12">
   <diagram id="Sm8y7zFaaTHQxjQVpw_f" name="smartcps system overview">
     <mxGraphModel dx="2117" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1789,6 +1789,9 @@
         </mxCell>
         <mxCell id="Utm-y4Zs5S-Mm3gj5f2w-2" value="SmartCPS KMS App" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="740" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Utm-y4Zs5S-Mm3gj5f2w-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iAddIcon;fillColor=#7AdF78;fillColor2=#1A9917;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="720" width="25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
