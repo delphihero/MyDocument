@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T15:11:53.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ltvfUQvMM7z5O7G-mYF7" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T15:16:56.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="l8sDALzUCXXPVuBZT6Jb" version="24.4.3" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="2117" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-1" value="&lt;div&gt;ISC&lt;/div&gt;&lt;div&gt;Frontend (Web App)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-7" value="Inject keys/Gen keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-3">
           <mxGeometry relative="1" as="geometry" />
@@ -16,44 +16,53 @@
         <mxCell id="fRM1-KL0-z92XGpWkeVO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-6">
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-11" value="Read/Write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-10">
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-11" value="Read/Write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-2" value="&lt;div&gt;ISC&lt;/div&gt;&lt;div&gt;Backend (Web API)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-17" target="fRM1-KL0-z92XGpWkeVO-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-3" value="&lt;div&gt;DZ&lt;/div&gt;&lt;div&gt;HSM Service &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Web API)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-5" value="&lt;div&gt;DZ&lt;/div&gt;&lt;div&gt;Card Profile Manager &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Web API)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-23" value="&lt;div&gt;Customer&amp;nbsp;&lt;/div&gt;&lt;div&gt;Input file&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-6" target="fRM1-KL0-z92XGpWkeVO-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-6" value="&lt;div&gt;DZ&lt;/div&gt;&lt;div&gt;Input File Parser &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Web API ? DLL ? Jar)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="140" height="60" as="geometry" />
+          <mxGeometry x="580" y="380" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-10" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="650" y="50" width="60" height="80" as="geometry" />
+          <mxGeometry x="270" y="270" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-29" value="Get associated key for gen CRD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-12" target="fRM1-KL0-z92XGpWkeVO-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="520" />
+              <mxPoint x="830" y="470" />
+              <mxPoint x="300" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-12" value="&lt;div&gt;DZ&lt;/div&gt;&lt;div&gt;Perso File Generator (.CRD) &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Web API)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="770" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-14" value="encrypt/decrypt" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-12" target="fRM1-KL0-z92XGpWkeVO-3">
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-14" value="encrypt/decrypt" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-12" target="fRM1-KL0-z92XGpWkeVO-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="830" y="600" />
-              <mxPoint x="243" y="600" />
+              <mxPoint x="140" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,7 +81,7 @@
         <mxCell id="fRM1-KL0-z92XGpWkeVO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-5" target="fRM1-KL0-z92XGpWkeVO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="557" />
+              <mxPoint x="520" y="557" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,6 +92,9 @@
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-24" value="&lt;div&gt;Parameters for generate CRD&lt;/div&gt;&lt;div&gt;1. Card program profile (XML)&lt;/div&gt;&lt;div&gt;2. All related keys&lt;/div&gt;&lt;div&gt;3. Customer Input file (source data)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="300" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-26" value="Get issuer keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-5" target="fRM1-KL0-z92XGpWkeVO-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
