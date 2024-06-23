@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T15:08:40.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="e3V-k4XdXYGOAo4i3Es0" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T15:11:25.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="2Kp1J_vokZSsT66LJrtQ" version="24.4.3" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="2117" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,9 @@
           <mxGeometry x="0.112" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-24" value="&lt;div&gt;Parameters for generate CRD&lt;/div&gt;&lt;div&gt;1. Card program profile (XML)&lt;/div&gt;&lt;div&gt;2. All related keys&lt;/div&gt;&lt;div&gt;3. Customer Input file (source data)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="300" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
