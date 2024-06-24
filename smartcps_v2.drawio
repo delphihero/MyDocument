@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T09:35:35.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="g4kHfFcCFv2uA7iEnRTv" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T09:36:35.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="jPIk3fAkdnOdIsic9K8f" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="2185" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,6 @@
             <Array as="points">
               <mxPoint x="300" y="650" />
               <mxPoint x="830" y="650" />
-              <mxPoint x="830" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
