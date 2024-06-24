@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T04:12:15.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="YnEmPQCJ4rc4o_lmkUKg" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T04:14:08.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="sleTQcyf6D_O4q1ffnFl" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
-    <mxGraphModel dx="2140" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,9 +141,9 @@
           <mxGeometry x="1532" y="392" width="248" height="248" as="geometry" />
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-18" value="&lt;div&gt;DZ&lt;/div&gt;&lt;div&gt;SFTP&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.transfer_for_sftp_resource;" vertex="1" parent="1">
-          <mxGeometry x="1040" width="76" height="78" as="geometry" />
+          <mxGeometry x="1010" y="-3" width="76" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="pj3DJVdpr6nAS-l7nSYo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-19" target="pj3DJVdpr6nAS-l7nSYo-18">
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-57" target="pj3DJVdpr6nAS-l7nSYo-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-21" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Put the input file on SFTP&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pj3DJVdpr6nAS-l7nSYo-20">
@@ -216,6 +216,15 @@
             <mxPoint x="1820" y="220" as="sourcePoint" />
             <mxPoint x="1870" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-19" target="pj3DJVdpr6nAS-l7nSYo-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="40" as="sourcePoint" />
+            <mxPoint x="1116" y="39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-57" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="7.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
