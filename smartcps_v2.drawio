@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T03:19:01.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="prHZ7_mS4B4WtDs_K1Xq" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T03:19:47.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="dv42KK3a7aGsb9S5vfAV" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="2440" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-45" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1030" y="495" width="80" height="80" as="geometry" />
+          <mxGeometry x="1260" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
