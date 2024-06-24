@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T03:20:51.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="kZ8Krqyl9d9FuZPHl2Ef" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T03:21:22.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="DsRRQOIgP2qYi7u65CJe" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="2440" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,14 +191,14 @@
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-45" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1260" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pj3DJVdpr6nAS-l7nSYo-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-12" target="pj3DJVdpr6nAS-l7nSYo-48">
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.063;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-12" target="pj3DJVdpr6nAS-l7nSYo-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1596" y="210" as="sourcePoint" />
             <mxPoint x="1300" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-48" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="162" width="60" height="60" as="geometry" />
+          <mxGeometry x="1430" y="182" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
