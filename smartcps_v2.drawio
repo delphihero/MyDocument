@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T02:46:51.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="a1Tr-WkJK7Y7srNjqbXS" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T02:49:40.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="TmAxuYrNv9kzB80mXUsL" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
-    <mxGraphModel dx="3154" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2704" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,10 +156,26 @@
           <mxGeometry x="-1080" y="332" width="248" height="248" as="geometry" />
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.transfer_for_sftp_resource;" vertex="1" parent="1">
-          <mxGeometry x="-768" y="-10" width="76" height="78" as="geometry" />
+          <mxGeometry x="-768" y="6" width="76" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="pj3DJVdpr6nAS-l7nSYo-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="10" width="30" height="60" as="geometry" />
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-19" target="pj3DJVdpr6nAS-l7nSYo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-21" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Put the input file on SFTP&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pj3DJVdpr6nAS-l7nSYo-20">
+          <mxGeometry x="0.0417" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-22" value="Select bach file to run" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-19" target="pj3DJVdpr6nAS-l7nSYo-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-875" y="70" />
+              <mxPoint x="-875" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-19" value="Customers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="10" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
