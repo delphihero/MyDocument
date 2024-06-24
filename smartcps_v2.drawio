@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T07:02:32.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="BbfK63vEUxyGBq3IOGD4" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T09:30:34.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="IcU-KbxdQ0dQ0L67_JG2" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="2185" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="fRM1-KL0-z92XGpWkeVO-14" value="encrypt/decrypt" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" parent="1" source="fRM1-KL0-z92XGpWkeVO-12" target="fRM1-KL0-z92XGpWkeVO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="600" />
+              <mxPoint x="800" y="600" />
               <mxPoint x="170" y="600" />
             </Array>
           </mxGeometry>
@@ -97,11 +97,13 @@
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-5" value="Operate machine to personalize cards" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-2" target="pj3DJVdpr6nAS-l7nSYo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pj3DJVdpr6nAS-l7nSYo-54" value="Get keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-2" target="fRM1-KL0-z92XGpWkeVO-12">
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-54" value="Get keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="650" />
-              <mxPoint x="785" y="650" />
+              <mxPoint x="830" y="650" />
+              <mxPoint x="830" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
