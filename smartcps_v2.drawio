@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T03:00:42.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="05Onl1Rev0-QRw1sO0ma" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T03:01:14.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="qTcJYd2LctAW1jMwJIqp" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="1740" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-12" target="pj3DJVdpr6nAS-l7nSYo-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pj3DJVdpr6nAS-l7nSYo-16" value="&lt;div&gt;Operate machine&amp;nbsp;&lt;/div&gt;&lt;div&gt;to personalize cards&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pj3DJVdpr6nAS-l7nSYo-15">
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-16" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Operate machine&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;IzpoNSwbLWX4nJ64gf_x&quot;&gt;to personalize cards&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pj3DJVdpr6nAS-l7nSYo-15">
           <mxGeometry x="0.3803" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-55" as="offset" />
           </mxGeometry>
@@ -168,7 +168,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pj3DJVdpr6nAS-l7nSYo-19" value="Customers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pj3DJVdpr6nAS-l7nSYo-19" value="Customers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1460" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pj3DJVdpr6nAS-l7nSYo-26">
