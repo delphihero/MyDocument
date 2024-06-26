@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T02:36:49.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Sa5Xh609gOFYWfHU1Rqt" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T02:37:30.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="tTrS_XqlnK1miFsV8Sbf" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="fRM1-KL0-z92XGpWkeVO-1" value="&lt;div&gt;ISC&lt;/div&gt;&lt;div&gt;Frontend&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Web App)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="470" y="1" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-7" value="Encrypt/Decrypt/Gen keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-3" edge="1">
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-7" value="Wrap/Unwrap/Gen keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-9" value="extend from ISC standard" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.45;exitY=1.034;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;entryX=0.436;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ksTBJWvEQwI3Mnjn-ebb-1" target="fRM1-KL0-z92XGpWkeVO-6" edge="1">
