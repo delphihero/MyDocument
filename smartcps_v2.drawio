@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T02:40:55.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="tNvquvrE-96Ix8ZBISJO" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T02:53:54.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="HZsz2TKiKo-2qYxwkdX7" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,10 @@
         <mxCell id="fRM1-KL0-z92XGpWkeVO-1" value="&lt;div&gt;ISC&lt;/div&gt;&lt;div&gt;Frontend&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Web App)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="470" y="1" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-7" value="Wrap/Unwrap/Gen keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-3" edge="1">
+        <mxCell id="fRM1-KL0-z92XGpWkeVO-7" value="&lt;div&gt;Manage&amp;nbsp;&lt;/div&gt;&lt;div&gt;Issuer keys&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ksTBJWvEQwI3Mnjn-ebb-3" target="fRM1-KL0-z92XGpWkeVO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-9" value="extend from ISC standard" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.45;exitY=1.034;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;entryX=0.436;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ksTBJWvEQwI3Mnjn-ebb-1" target="fRM1-KL0-z92XGpWkeVO-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-11" value="CRUD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" parent="1" source="j4GGj_rFmrAJu6l2KseN-9" target="fRM1-KL0-z92XGpWkeVO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-13" value="Call API to gen CRD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="fRM1-KL0-z92XGpWkeVO-2" target="fRM1-KL0-z92XGpWkeVO-12" edge="1">
@@ -95,9 +92,6 @@
         </mxCell>
         <mxCell id="fRM1-KL0-z92XGpWkeVO-24" value="&lt;div&gt;Provide necessary parameters for generate CRD&lt;/div&gt;&lt;div&gt;1. Card program profile (XML)&lt;/div&gt;&lt;div&gt;2. All related keys&lt;/div&gt;&lt;div&gt;3. Customer Input file (source data)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="830" y="300" width="50" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="fRM1-KL0-z92XGpWkeVO-26" value="Get issuer keys" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontFamily=Comic Sans MS;" parent="1" source="fRM1-KL0-z92XGpWkeVO-5" target="fRM1-KL0-z92XGpWkeVO-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pj3DJVdpr6nAS-l7nSYo-4" value="&lt;div&gt;decrypt&lt;/div&gt;&lt;div&gt;perso data&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" parent="1" source="pj3DJVdpr6nAS-l7nSYo-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -252,22 +246,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j4GGj_rFmrAJu6l2KseN-9" value="DB Manager" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="j4GGj_rFmrAJu6l2KseN-11" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Manage DB&lt;/font&gt;" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="j4GGj_rFmrAJu6l2KseN-9" target="fRM1-KL0-z92XGpWkeVO-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="250" as="sourcePoint" />
-            <mxPoint x="370" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Input File Parser&lt;/div&gt;&lt;div&gt;Standard&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Input File Parser&lt;/div&gt;&lt;div&gt;(Standard)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="670" y="232" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ksTBJWvEQwI3Mnjn-ebb-2" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Manage&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Input Files&lt;/font&gt;&lt;/div&gt;" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ksTBJWvEQwI3Mnjn-ebb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="300" as="sourcePoint" />
             <mxPoint x="591" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-3" value="&lt;div&gt;Card Issuer &lt;br&gt;&lt;/div&gt;&lt;div&gt;Profile Manager&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="205" y="163" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ksTBJWvEQwI3Mnjn-ebb-3" target="fRM1-KL0-z92XGpWkeVO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-5" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Manage&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Issuer Profile&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ksTBJWvEQwI3Mnjn-ebb-4">
+          <mxGeometry x="0.0376" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=27.5;exitPerimeter=0;" edge="1" parent="1" source="fRM1-KL0-z92XGpWkeVO-10" target="fRM1-KL0-z92XGpWkeVO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
