@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T08:58:43.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Pgt-H7ry11V-kAgq1WSw" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T04:29:09.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="t3ySXGuJYaxcq4XlHJE5" version="24.6.2" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,6 +303,15 @@
         <mxCell id="ksTBJWvEQwI3Mnjn-ebb-17" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Manage&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;zhe5IiJcNzeowQh0NG65&quot;&gt;CA Publickey &amp;amp; Certificate&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ksTBJWvEQwI3Mnjn-ebb-15">
           <mxGeometry x="-0.5246" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-20" value="&lt;div&gt;Auth/Autotrize&lt;/div&gt;&lt;div&gt;Server&lt;/div&gt;&lt;div&gt;(ISC CORE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ksTBJWvEQwI3Mnjn-ebb-20" target="fRM1-KL0-z92XGpWkeVO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
