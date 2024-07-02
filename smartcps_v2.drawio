@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T11:20:01.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="AtIHZAio8_hLPRa0xTXg" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T11:20:12.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Sm2ThIEW6dEzvFxpShfx" version="24.6.4" type="github">
   <diagram name="หน้า-1" id="lc0lnvrULM7RFjk2gOxu">
     <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,9 +289,6 @@
             <mxPoint x="350" y="330" as="sourcePoint" />
             <mxPoint x="400" y="280" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ksTBJWvEQwI3Mnjn-ebb-7" value="&lt;div&gt;PIN Managment&lt;/div&gt;&lt;div&gt;Service&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="940" y="490" width="120" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ksTBJWvEQwI3Mnjn-ebb-20" value="&lt;div&gt;Auth/Authorize&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;&lt;div&gt;(ISC CORE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="315" y="300" width="110" height="58" as="geometry" />
