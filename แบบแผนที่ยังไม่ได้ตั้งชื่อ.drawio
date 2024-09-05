@@ -1,75 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T07:32:08.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="N4CtxmBbrFuBKBHhDuge" version="21.6.6" type="github">
-  <diagram name="MoveKeyVaultFlow" id="aMtHDYgJqgtduURzYr6P">
-    <mxGraphModel dx="1290" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.6">
+  <diagram name="หน้า-1" id="89yJ9sOR0lRTCoyJOw2x">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UNII_tpzUk51Md-NJ-O0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UNII_tpzUk51Md-NJ-O0-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="90" />
-              <mxPoint x="160" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UNII_tpzUk51Md-NJ-O0-2" value="Key custodain" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="60" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UNII_tpzUk51Md-NJ-O0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UNII_tpzUk51Md-NJ-O0-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="280" />
-              <mxPoint x="160" y="180" />
-            </Array>
-            <mxPoint x="270" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UNII_tpzUk51Md-NJ-O0-3" value="Security officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="250" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-4" value="&lt;div&gt;key 1&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="80" width="24.8" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-5" value="key 2" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="250" width="24.8" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-7" value="New safe box" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/1_lock_Box_deposit_protection_safe_safety_security-128.png" vertex="1" parent="1">
-          <mxGeometry x="834" y="410" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Y21deKDa9zt7beMRNQG-8" target="_Y21deKDa9zt7beMRNQG-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-8" value="Old safe box" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-798/32/User_interface_safety_box_safety_safe_security_money-128.png" vertex="1" parent="1">
-          <mxGeometry x="290" y="133" width="108" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-9" value="Open safe box" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Y21deKDa9zt7beMRNQG-10" target="_Y21deKDa9zt7beMRNQG-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-10" value="key custodain do the key counting and sign in log book" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="143" width="116" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_Y21deKDa9zt7beMRNQG-13" target="_Y21deKDa9zt7beMRNQG-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-13" value="key custodain move all key envelopes to new safe box in data room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="116" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_Y21deKDa9zt7beMRNQG-16" target="_Y21deKDa9zt7beMRNQG-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-16" value="security officer, key manager and key custodain escort key envelopes to data room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="145" width="120" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Y21deKDa9zt7beMRNQG-17" target="_Y21deKDa9zt7beMRNQG-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_Y21deKDa9zt7beMRNQG-17" value="key custodian collect all key envelopes from the old safe box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="146.5" width="120" height="81" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
