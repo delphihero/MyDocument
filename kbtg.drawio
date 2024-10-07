@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.10">
   <diagram name="หน้า-1" id="qQfYxGUEPipdVxSLCB8Y">
-    <mxGraphModel dx="1290" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="304" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="10" width="70" height="60" as="geometry" />
+          <mxGeometry x="329" y="10" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-3" value="KBank provide Engrave Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="120" height="60" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jhZBDQJKlJrp_bP3Eso0-17" target="jhZBDQJKlJrp_bP3Eso0-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jhZBDQJKlJrp_bP3Eso0-17" value="&lt;div&gt;Operators provide machine logs as an inout to generate .ORG&lt;/div&gt;&lt;div&gt;(SB software)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jhZBDQJKlJrp_bP3Eso0-17" value="&lt;div&gt;SB softwre use machine logs as an input to generate .ORG/.ORG2 file&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jhZBDQJKlJrp_bP3Eso0-20" target="jhZBDQJKlJrp_bP3Eso0-26">
@@ -76,13 +76,13 @@
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-25" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jhZBDQJKlJrp_bP3Eso0-21" target="jhZBDQJKlJrp_bP3Eso0-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jhZBDQJKlJrp_bP3Eso0-21" value="&lt;div&gt;Log have Engrave&amp;nbsp;&lt;/div&gt;&lt;div&gt;number?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="870" width="95" height="80" as="geometry" />
+        <mxCell id="jhZBDQJKlJrp_bP3Eso0-21" value="&lt;div&gt;Log include Engrave&amp;nbsp;&lt;/div&gt;&lt;div&gt;number?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="860" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jhZBDQJKlJrp_bP3Eso0-24" target="jhZBDQJKlJrp_bP3Eso0-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jhZBDQJKlJrp_bP3Eso0-24" value="&lt;div&gt;SB Software generate .ORG2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jhZBDQJKlJrp_bP3Eso0-24" value="&lt;div&gt;SB Software generate .ORG2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jhZBDQJKlJrp_bP3Eso0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jhZBDQJKlJrp_bP3Eso0-26" target="jhZBDQJKlJrp_bP3Eso0-34">
