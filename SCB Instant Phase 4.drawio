@@ -114,6 +114,12 @@
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-34" value="&lt;div&gt;Line 1&lt;/div&gt;&lt;div&gt;Line 2&lt;/div&gt;&lt;div&gt;......&lt;/div&gt;&lt;div&gt;Line 5&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-37">
           <mxGeometry x="292" y="100" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-10" value="Translate FULL-Ref" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontFamily=Verdana;fontSize=10;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZT-wFzcxe1BrMfs4uHmM-48" target="iN11iZSvfTkwBBpQhDie-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="ZT-wFzcxe1BrMfs4uHmM-48" target="iN11iZSvfTkwBBpQhDie-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-48" value="App Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=default;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
           <mxGeometry x="520" y="493" width="92" height="92" as="geometry" />
         </mxCell>
@@ -185,20 +191,29 @@
         <mxCell id="iN11iZSvfTkwBBpQhDie-4" value="IAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="715" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iN11iZSvfTkwBBpQhDie-5" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="747" y="480" width="80" height="38.5" as="geometry" />
-        </mxCell>
-        <mxCell id="iN11iZSvfTkwBBpQhDie-6" value="&lt;div&gt;Mail&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="747" y="585" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iN11iZSvfTkwBBpQhDie-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZT-wFzcxe1BrMfs4uHmM-43" target="iN11iZSvfTkwBBpQhDie-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iN11iZSvfTkwBBpQhDie-8" value="&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Card_Full&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;lt;-&amp;gt;Card Ref.&lt;/span&gt;&lt;/p&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="833" y="484.25" width="122" height="30" as="geometry" />
+        <mxCell id="iN11iZSvfTkwBBpQhDie-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="747" y="447" width="202" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="iN11iZSvfTkwBBpQhDie-9" value="&lt;div&gt;University A.&lt;/div&gt;&lt;div&gt;University B.&lt;/div&gt;&lt;div&gt;University C.&lt;/div&gt;&lt;div&gt;.....&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="837.23" y="595" width="72.77" height="40" as="geometry" />
+        <mxCell id="iN11iZSvfTkwBBpQhDie-5" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="iN11iZSvfTkwBBpQhDie-11">
+          <mxGeometry width="80" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-8" value="&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Card_Full&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;lt;-&amp;gt;Card Ref.&lt;/span&gt;&lt;/p&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="iN11iZSvfTkwBBpQhDie-11">
+          <mxGeometry x="80" y="3" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="747" y="650" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-6" value="&lt;div&gt;Mail&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9933FF;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="iN11iZSvfTkwBBpQhDie-12">
+          <mxGeometry width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-9" value="&lt;div&gt;University A.&lt;/div&gt;&lt;div&gt;University B.&lt;/div&gt;&lt;div&gt;University C.&lt;/div&gt;&lt;div&gt;.....&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="iN11iZSvfTkwBBpQhDie-12">
+          <mxGeometry x="90.23000000000002" y="10" width="72.77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iN11iZSvfTkwBBpQhDie-13" value="&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;EOD UID log by University&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SMTP Protocol&lt;/span&gt;&lt;/p&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="597" y="670" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
