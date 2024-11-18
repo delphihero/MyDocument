@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Option 1" id="7tnn6PFjNK0WYdMoOA-0">
-    <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8Nrcuzgs1oq3aR_fttTy-0" />
         <mxCell id="8Nrcuzgs1oq3aR_fttTy-1" parent="8Nrcuzgs1oq3aR_fttTy-0" />
@@ -629,8 +629,8 @@
         <mxCell id="2QIji7UkmtoS2J3JJkLm-1" value="ATMWeb_DB" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=14;" vertex="1" parent="8Nrcuzgs1oq3aR_fttTy-1">
           <mxGeometry x="520" y="173" width="82.03" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EbIqZ3HfZyKZOmmMnu0H-0" value="Client - Backend API" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="8Nrcuzgs1oq3aR_fttTy-1">
-          <mxGeometry x="414" y="-60" width="306" height="30" as="geometry" />
+        <mxCell id="EbIqZ3HfZyKZOmmMnu0H-0" value="The three-tier architecture with a desktop client" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="8Nrcuzgs1oq3aR_fttTy-1">
+          <mxGeometry x="100" y="-60" width="750" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
