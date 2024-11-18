@@ -501,7 +501,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-76" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Application service deployed:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;1.Auto add stock&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;2.Update UID Log&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;3.Auto send email to universities&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;4.Auto delete UID log &lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=10;align=left;shadow=1;glass=1;strokeColor=none;labelBackgroundColor=none;textShadow=0;" parent="Z_9p6Cu_QMdt6GRwixlZ-1" vertex="1">
-          <mxGeometry x="455" y="733" width="194" height="90" as="geometry" />
+          <mxGeometry x="455" y="740" width="194" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-77" value="ApiCaller.DLL" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-dll-format-type-128.png;fontFamily=Verdana;fontSize=10;" parent="Z_9p6Cu_QMdt6GRwixlZ-1" vertex="1">
           <mxGeometry x="533" y="862" width="38" height="38" as="geometry" />
@@ -529,9 +529,6 @@
         </mxCell>
         <mxCell id="hio1qC1TWou64L2haVUu-3" value="Intranet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontFamily=Verdana;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
           <mxGeometry x="40.589999999999996" y="602" width="90.48" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="hio1qC1TWou64L2haVUu-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
-          <mxGeometry x="380" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hio1qC1TWou64L2haVUu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1" source="LIWHwL1tTzHnzRk-m1p4-1" target="hio1qC1TWou64L2haVUu-3">
           <mxGeometry relative="1" as="geometry">
