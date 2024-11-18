@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6" pages="3">
   <diagram name="Current" id="p1tiYPqTlUD5l0Elbpms">
-    <mxGraphModel dx="1877" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,11 +279,14 @@
         <mxCell id="xoRbmAu2NP26TVItbAsS-1" value="ATMWeb_DB" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="520" y="173" width="82.03" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="79qhuJemrcpsmEhdkRwq-1" value="Client - Server" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="409.5" y="-70" width="235" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Option 1" id="7tnn6PFjNK0WYdMoOA-0">
-    <mxGraphModel dx="1877" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8Nrcuzgs1oq3aR_fttTy-0" />
         <mxCell id="8Nrcuzgs1oq3aR_fttTy-1" parent="8Nrcuzgs1oq3aR_fttTy-0" />
@@ -626,11 +629,14 @@
         <mxCell id="2QIji7UkmtoS2J3JJkLm-1" value="ATMWeb_DB" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=14;" vertex="1" parent="8Nrcuzgs1oq3aR_fttTy-1">
           <mxGeometry x="520" y="173" width="82.03" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EbIqZ3HfZyKZOmmMnu0H-0" value="Client - Backend API" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="8Nrcuzgs1oq3aR_fttTy-1">
+          <mxGeometry x="414" y="-60" width="306" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Option 2" id="osFALAEsJHfYHfZ4l9du">
-    <mxGraphModel dx="1877" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-0" />
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-1" parent="Z_9p6Cu_QMdt6GRwixlZ-0" />
@@ -879,6 +885,9 @@
         <mxCell id="LIWHwL1tTzHnzRk-m1p4-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;imageBorder=#FF0000;strokeWidth=2;shadow=1;dashed=1;" vertex="1" parent="hio1qC1TWou64L2haVUu-2">
           <mxGeometry x="266.3028051891658" y="20.16949152542373" width="64.06996167588353" height="51.82129253196462" as="geometry" />
         </mxCell>
+        <mxCell id="URcGNIEu37uAhW9QX2WD-1" value="Agent App" style="shadow=0;dashed=0;html=1;strokeColor=#FF0000;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;fontFamily=Verdana;fontSize=10;strokeWidth=2;" vertex="1" parent="hio1qC1TWou64L2haVUu-2">
+          <mxGeometry x="188" y="19.16999999999996" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
         <mxCell id="hio1qC1TWou64L2haVUu-3" value="Intranet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;fontFamily=Verdana;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
           <mxGeometry x="40.589999999999996" y="602" width="90.48" height="57" as="geometry" />
         </mxCell>
@@ -969,6 +978,9 @@
         </mxCell>
         <mxCell id="m5EzlQzCSmO2OXSCNXj2-0" value="ATMWeb_DB" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=14;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
           <mxGeometry x="520" y="173" width="82.03" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="URcGNIEu37uAhW9QX2WD-0" value="Client - Server" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
+          <mxGeometry x="409.5" y="-80" width="235" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
