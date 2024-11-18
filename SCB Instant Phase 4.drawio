@@ -93,33 +93,6 @@
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-48" value="App Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=default;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/app_server.svg;" vertex="1" parent="1">
           <mxGeometry x="570" y="518" width="92" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-50" value="SCB Databse (DB2)" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="203" width="433" height="237" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#B3B3B3;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry width="433" height="237" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-38" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bulk&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#9933FF;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="72.16666666666667" y="27" width="75.77499999999999" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Card&lt;/div&gt;&lt;div&gt;Stock&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="175.00416666666666" y="27" width="86.6" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User access log&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="283.25416666666666" y="27" width="97.425" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-44" value="Student" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#666666;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="72.16666666666667" y="157" width="75.77499999999999" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-45" value="UID Log" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="291.3729166666667" y="108" width="87.50208333333333" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-56" value="&lt;div&gt;CardRef.1 Branch 001&lt;/div&gt;&lt;div&gt;CardRef.2 Branch 001&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="156.9625" y="93" width="126.29166666666667" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-70" value="&lt;div&gt;CardSeq.1 UID001.Mr A&lt;/div&gt;&lt;div&gt;CardSeq.2 UID001.Mr B&lt;/div&gt;&lt;div&gt;....&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Verdana;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="256.97" y="172" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-52" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;Update&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;card stock&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="ZT-wFzcxe1BrMfs4uHmM-42">
           <mxGeometry x="-0.2072" y="-19" relative="1" as="geometry">
             <mxPoint x="330" y="161" as="sourcePoint" />
@@ -131,6 +104,42 @@
           <mxGeometry x="0.0044" y="-40" relative="1" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-50" value="SCB Databse (DB2)" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="203" width="433" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#B3B3B3;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
+          <mxGeometry width="433" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-73" value="" style="group" vertex="1" connectable="0" parent="ZT-wFzcxe1BrMfs4uHmM-50">
+          <mxGeometry x="72.16666666666667" y="27" width="334.80333333333334" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZT-wFzcxe1BrMfs4uHmM-73" source="ZT-wFzcxe1BrMfs4uHmM-38" target="ZT-wFzcxe1BrMfs4uHmM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-38" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bulk&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#9933FF;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry width="75.77499999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Card&lt;/div&gt;&lt;div&gt;Stock&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry x="102.83749999999999" width="86.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User access log&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry x="211.08749999999998" width="97.425" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-44" value="Student" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#666666;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry y="130" width="75.77499999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-45" value="UID Log" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry x="219.20625" y="81" width="87.50208333333333" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-56" value="&lt;div&gt;CardRef.1 Branch 001&lt;/div&gt;&lt;div&gt;CardRef.2 Branch 001&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry x="84.79583333333333" y="66" width="126.29166666666667" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-70" value="&lt;div&gt;CardSeq.1 UID001.Mr A&lt;/div&gt;&lt;div&gt;CardSeq.2 UID001.Mr B&lt;/div&gt;&lt;div&gt;....&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Verdana;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-73">
+          <mxGeometry x="184.80333333333334" y="145" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-75" value="Synchronize student data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
+          <mxGeometry x="33" y="103.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-61" value="Update UID Log" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="ZT-wFzcxe1BrMfs4uHmM-31" target="ZT-wFzcxe1BrMfs4uHmM-45">
           <mxGeometry relative="1" as="geometry" />
