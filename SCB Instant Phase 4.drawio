@@ -454,9 +454,12 @@
             <mxPoint x="132.06999999999994" y="427" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-49" value="&lt;div&gt;Deploy&amp;nbsp;&lt;/div&gt;&lt;div&gt;Credentials&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=10;fontStyle=0;labelBackgroundColor=#CC99FF;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Z_9p6Cu_QMdt6GRwixlZ-1" source="Z_9p6Cu_QMdt6GRwixlZ-50" edge="1" target="hio1qC1TWou64L2haVUu-0">
+        <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-49" value="&lt;div&gt;Deploy&amp;nbsp;&lt;/div&gt;&lt;div&gt;Credentials&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=10;fontStyle=0;labelBackgroundColor=#CC99FF;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Z_9p6Cu_QMdt6GRwixlZ-1" source="Z_9p6Cu_QMdt6GRwixlZ-50" edge="1" target="reoVZTAwuCsCg1PKuzbA-13">
           <mxGeometry x="-0.6092" relative="1" as="geometry">
             <mxPoint x="78.06999999999994" y="621" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="560" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -607,6 +610,12 @@
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="reoVZTAwuCsCg1PKuzbA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;curved=1;" edge="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1" source="reoVZTAwuCsCg1PKuzbA-13" target="hio1qC1TWou64L2haVUu-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="reoVZTAwuCsCg1PKuzbA-13" value="secret file" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.file_key;fontFamily=Verdana;fontSize=10;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
+          <mxGeometry x="20" y="533" width="40" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
