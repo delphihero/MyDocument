@@ -105,7 +105,7 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-50" value="SCB Databse (DB2)" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZT-wFzcxe1BrMfs4uHmM-50" value="SCB Database (DB2)" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;fontFamily=Verdana;fontColor=#6600CC;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="203" width="433" height="237" as="geometry" />
         </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#B3B3B3;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
