@@ -636,7 +636,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Option 2" id="osFALAEsJHfYHfZ4l9du">
-    <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2736" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-0" />
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-1" parent="Z_9p6Cu_QMdt6GRwixlZ-0" />
@@ -979,8 +979,8 @@
         <mxCell id="m5EzlQzCSmO2OXSCNXj2-0" value="ATMWeb_DB" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=14;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
           <mxGeometry x="520" y="173" width="82.03" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URcGNIEu37uAhW9QX2WD-0" value="Client - Server" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
-          <mxGeometry x="409.5" y="-80" width="235" height="30" as="geometry" />
+        <mxCell id="URcGNIEu37uAhW9QX2WD-0" value="The three-tier architecture" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=26;" vertex="1" parent="Z_9p6Cu_QMdt6GRwixlZ-1">
+          <mxGeometry x="387.5" y="-80" width="420.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
