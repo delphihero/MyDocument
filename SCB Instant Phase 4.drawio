@@ -468,7 +468,7 @@
           <mxGeometry x="90.23000000000002" y="10" width="72.77" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-59" value="&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;EOD UID log by University&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SMTP Protocol&lt;/span&gt;&lt;/p&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" parent="Z_9p6Cu_QMdt6GRwixlZ-1" vertex="1">
-          <mxGeometry x="680" y="679" width="150" height="30" as="geometry" />
+          <mxGeometry x="670" y="684" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_9p6Cu_QMdt6GRwixlZ-60" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=default;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" parent="Z_9p6Cu_QMdt6GRwixlZ-1" vertex="1">
           <mxGeometry x="340" y="165" width="30" height="30" as="geometry" />
