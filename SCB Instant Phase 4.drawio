@@ -94,7 +94,7 @@
           <mxGeometry x="80" y="27" width="84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Card&lt;/div&gt;&lt;div&gt;Stock&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="194" y="27" width="90" height="60" as="geometry" />
+          <mxGeometry x="194" y="27" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User access log&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
           <mxGeometry x="314" y="27" width="108" height="60" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="80" y="157" width="84" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-45" value="UID Log" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#33FF33;fontColor=#FFFFFF;fontStyle=1;fontFamily=Verdana;fontSize=14;strokeColor=#FFFFFF;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
-          <mxGeometry x="323" y="157" width="90" height="60" as="geometry" />
+          <mxGeometry x="323" y="157" width="97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZT-wFzcxe1BrMfs4uHmM-56" value="&lt;div&gt;CardRef.1 Branch 001&lt;/div&gt;&lt;div&gt;CardRef.2 Branch 001&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="ZT-wFzcxe1BrMfs4uHmM-50">
           <mxGeometry x="174" y="93" width="140" height="30" as="geometry" />
