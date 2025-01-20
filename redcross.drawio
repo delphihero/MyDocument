@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y7MqlbSffA1OEKjYAWXb-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="240" width="99.69000000000005" height="188" as="geometry" />
+          <mxGeometry x="580" y="230" width="99.69000000000005" height="188" as="geometry" />
         </mxCell>
         <mxCell id="H7RTySpPC0p8DqEm5PfO-23" value="&lt;div&gt;&lt;i style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;AI Background&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;Removal Backend Service&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Cloud_Services_Classic.svg;fillColor=#FFFF33;" parent="y7MqlbSffA1OEKjYAWXb-2" vertex="1">
           <mxGeometry width="99.69" height="72" as="geometry" />
